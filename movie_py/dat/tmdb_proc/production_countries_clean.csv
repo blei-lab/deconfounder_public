@@ -1,0 +1,4000 @@
+,iso_3166_1,new_country_id,movie_id,name,new_movie_id
+0,US,0,19995,United States of America,1646
+1,GB,1,19995,United Kingdom,1646
+2,US,0,285,United States of America,163
+3,US,0,206647,United States of America,948
+4,GB,1,206647,United Kingdom,948
+5,US,0,49026,United States of America,2796
+6,US,0,49529,United States of America,203
+7,US,0,559,United States of America,293
+8,US,0,38757,United States of America,2288
+9,US,0,99861,United States of America,788
+10,US,0,767,United States of America,417
+11,GB,1,767,United Kingdom,417
+12,US,0,209112,United States of America,1855
+13,US,0,1452,United States of America,741
+14,US,0,10764,United States of America,1290
+15,GB,1,10764,United Kingdom,1290
+16,US,0,58,United States of America,24
+17,JM,2,58,Jamaica,24
+18,BS,3,58,Bahamas,24
+19,DM,4,58,Dominica,24
+20,US,0,57201,United States of America,2785
+21,US,0,49521,United States of America,198
+22,GB,1,49521,United Kingdom,198
+23,US,0,2454,United States of America,1242
+24,CZ,5,2454,Czech Republic,1242
+25,PL,6,2454,Poland,1242
+26,SI,7,2454,Slovenia,1242
+27,US,0,24428,United States of America,2783
+28,US,0,1865,United States of America,957
+29,US,0,41154,United States of America,112
+30,US,0,122917,United States of America,19
+31,NZ,8,122917,New Zealand,19
+32,US,0,1930,United States of America,1576
+33,US,0,20662,United States of America,1848
+34,GB,1,20662,United Kingdom,1848
+35,US,0,57158,United States of America,2765
+36,NZ,8,57158,New Zealand,2765
+37,US,0,2268,United States of America,1164
+38,GB,1,2268,United Kingdom,1164
+39,US,0,254,United States of America,145
+40,NZ,8,254,New Zealand,145
+41,DE,9,254,Germany,145
+42,US,0,597,United States of America,311
+43,US,0,271110,United States of America,424
+44,US,0,44833,United States of America,1716
+45,US,0,135397,United States of America,1858
+46,US,0,37724,United States of America,2036
+47,GB,1,37724,United Kingdom,2036
+48,US,0,558,United States of America,292
+49,US,0,68721,United States of America,1340
+50,CN,10,68721,China,1340
+51,US,0,12155,United States of America,1757
+52,US,0,36668,United States of America,1729
+53,GB,1,36668,United Kingdom,1729
+54,CA,11,36668,Canada,1729
+55,US,0,62211,United States of America,2003
+56,US,0,8373,United States of America,103
+57,US,0,91314,United States of America,617
+58,US,0,68728,United States of America,1517
+59,US,0,102382,United States of America,1791
+60,US,0,20526,United States of America,1810
+61,US,0,49013,United States of America,2628
+62,US,0,44912,United States of America,1753
+63,US,0,10193,United States of America,2493
+64,US,0,534,United States of America,282
+65,GB,1,534,United Kingdom,282
+66,DE,9,534,Germany,282
+67,IT,12,534,Italy,282
+68,US,0,168259,United States of America,1885
+69,JP,13,168259,Japan,1885
+70,US,0,72190,United States of America,2454
+71,MT,14,72190,Malta,2454
+72,US,0,127585,United States of America,1968
+73,GB,1,127585,United Kingdom,1968
+74,US,0,54138,United States of America,2046
+75,US,0,81005,United States of America,2599
+76,US,0,64682,United States of America,2619
+77,AU,15,64682,Australia,2619
+78,US,0,9543,United States of America,686
+79,US,0,68726,United States of America,1515
+80,CA,11,68726,Canada,1515
+81,US,0,38356,United States of America,2179
+82,US,0,217,United States of America,124
+83,US,0,105864,United States of America,2687
+84,US,0,62177,United States of America,1988
+85,US,0,188927,United States of America,271
+86,US,0,10681,United States of America,1256
+87,US,0,5174,United States of America,2081
+88,US,0,14161,United States of America,2281
+89,CA,11,14161,Canada,2281
+90,US,0,17979,United States of America,2655
+91,US,0,76757,United States of America,1452
+92,US,0,258489,United States of America,1917
+93,GB,1,258489,United Kingdom,1917
+94,CA,11,258489,Canada,1917
+95,US,0,411,United States of America,222
+96,GB,1,411,United Kingdom,222
+97,US,0,246655,United States of America,497
+98,US,0,155,United States of America,83
+99,GB,1,155,United Kingdom,83
+100,US,0,14160,United States of America,1458
+101,US,0,15512,United States of America,2612
+102,US,0,1726,United States of America,882
+103,US,0,44826,United States of America,1714
+104,GB,1,44826,United Kingdom,1714
+105,FR,16,44826,France,1714
+106,US,0,8487,United States of America,165
+107,US,0,1735,United States of America,889
+108,DE,9,1735,Germany,889
+109,US,0,297761,United States of America,1376
+110,US,0,2698,United States of America,1334
+111,US,0,137113,United States of America,2302
+112,AU,15,137113,Australia,2302
+113,US,0,9804,United States of America,822
+114,US,0,14869,United States of America,2461
+115,CZ,5,14869,Czech Republic,2461
+116,US,0,150540,United States of America,1474
+117,US,0,278927,United States of America,217
+118,GB,1,278927,United Kingdom,217
+119,US,0,10138,United States of America,1007
+120,US,0,58595,United States of America,639
+121,US,0,102651,United States of America,1862
+122,US,0,119450,United States of America,1977
+123,US,0,64686,United States of America,2621
+124,US,0,100402,United States of America,1088
+125,US,0,10192,United States of America,1038
+126,US,0,158852,United States of America,1523
+127,US,0,177572,United States of America,2166
+128,US,0,82690,United States of America,420
+129,US,0,5255,United States of America,2102
+130,US,0,47933,United States of America,2261
+131,US,0,10191,United States of America,1037
+132,US,0,296,United States of America,1620
+133,GB,1,296,United Kingdom,1620
+134,DE,9,296,Germany,1620
+135,US,0,118340,United States of America,1660
+136,GB,1,118340,United Kingdom,1660
+137,US,0,157336,United States of America,860
+138,GB,1,157336,United Kingdom,860
+139,CA,11,157336,Canada,860
+140,US,0,27205,United States of America,1311
+141,GB,1,27205,United Kingdom,1311
+142,US,0,49051,United States of America,2806
+143,NZ,8,49051,New Zealand,2806
+144,US,0,9799,United States of America,818
+145,DE,9,9799,Germany,818
+146,US,0,4922,United States of America,2027
+147,US,0,49538,United States of America,208
+148,US,0,131634,United States of America,1572
+149,DE,9,131634,Germany,1572
+150,US,0,27022,United States of America,1240
+151,US,0,503,United States of America,264
+152,US,0,241259,United States of America,1672
+153,GB,1,241259,United Kingdom,1672
+154,US,0,810,United States of America,449
+155,US,0,68735,United States of America,1520
+156,CN,10,68735,China,1520
+157,CA,11,68735,Canada,1520
+158,JP,13,68735,Japan,1520
+159,US,0,87101,United States of America,2087
+160,US,0,10140,United States of America,1609
+161,US,0,676,United States of America,366
+162,US,0,1858,United States of America,953
+163,US,0,1966,United States of America,1018
+164,GB,1,1966,United Kingdom,1018
+165,DE,9,1966,Germany,1018
+166,IT,12,1966,Italy,1018
+167,FR,16,1966,France,1018
+168,NL,17,1966,Netherlands,1018
+169,US,0,675,United States of America,365
+170,GB,1,675,United Kingdom,365
+171,US,0,674,United States of America,364
+172,GB,1,674,United Kingdom,364
+173,US,0,8960,United States of America,418
+174,US,0,6479,United States of America,2403
+175,US,0,118,United States of America,63
+176,GB,1,118,United Kingdom,63
+177,AU,15,118,Australia,63
+178,US,0,2062,United States of America,1077
+179,US,0,272,United States of America,156
+180,GB,1,272,United Kingdom,156
+181,US,0,10527,United States of America,1193
+182,US,0,18360,United States of America,1025
+183,CA,11,18360,Canada,1025
+184,US,0,2080,United States of America,1082
+185,US,0,605,United States of America,316
+186,AU,15,605,Australia,316
+187,US,0,109445,United States of America,670
+188,US,0,604,United States of America,315
+189,AU,15,604,Australia,315
+190,US,0,76338,United States of America,1299
+191,US,0,76341,United States of America,1300
+192,AU,15,76341,Australia,1300
+193,US,0,13448,United States of America,2103
+194,IT,12,13448,Italy,2103
+195,US,0,10195,United States of America,1040
+196,US,0,13053,United States of America,1999
+197,US,0,19585,United States of America,2417
+198,US,0,57165,United States of America,2770
+199,ES,18,57165,Spain,2770
+200,US,0,62213,United States of America,2004
+201,AU,15,62213,Australia,2004
+202,US,0,177677,United States of America,1385
+203,CN,10,177677,China,1385
+204,US,0,5559,United States of America,1483
+205,US,0,49444,United States of America,164
+206,US,0,10196,United States of America,1041
+207,US,0,956,United States of America,520
+208,DE,9,956,Germany,520
+209,CN,10,956,China,520
+210,US,0,117251,United States of America,2579
+211,US,0,50321,United States of America,599
+212,US,0,11619,United States of America,1585
+213,GB,1,11619,United Kingdom,1585
+214,US,0,266647,United States of America,1907
+215,US,0,82703,United States of America,431
+216,US,0,652,United States of America,349
+217,GB,1,652,United Kingdom,349
+218,MT,14,652,Malta,349
+219,US,0,80321,United States of America,2441
+220,US,0,36669,United States of America,2542
+221,GB,1,36669,United Kingdom,2542
+222,US,0,43074,United States of America,1095
+223,US,0,95,United States of America,47
+224,US,0,608,United States of America,319
+225,US,0,2310,United States of America,1186
+226,US,0,140300,United States of America,535
+227,CN,10,140300,China,535
+228,US,0,56292,United States of America,2566
+229,CZ,5,56292,Czech Republic,2566
+230,AE,19,56292,United Arab Emirates,2566
+231,US,0,81188,United States of America,2657
+232,US,0,7552,United States of America,2684
+233,US,0,616,United States of America,325
+234,NZ,8,616,New Zealand,325
+235,JP,13,616,Japan,325
+236,US,0,147441,United States of America,2824
+237,GB,1,147441,United Kingdom,2824
+238,ES,18,147441,Spain,2824
+239,US,0,13475,United States of America,2109
+240,DE,9,13475,Germany,2109
+241,US,0,557,United States of America,291
+242,US,0,82702,United States of America,430
+243,US,0,205584,United States of America,432
+244,AU,15,205584,Australia,432
+245,US,0,10048,United States of America,952
+246,US,0,13183,United States of America,2047
+247,US,0,944,United States of America,512
+248,US,0,1927,United States of America,994
+249,US,0,72559,United States of America,602
+250,US,0,7364,United States of America,2629
+251,GB,1,7364,United Kingdom,2629
+252,DE,9,7364,Germany,2629
+253,ES,18,7364,Spain,2629
+254,US,0,2114,United States of America,1904
+255,JP,13,2114,Japan,1904
+256,US,0,1771,United States of America,907
+257,US,0,36643,United States of America,1718
+258,GB,1,36643,United Kingdom,1718
+259,US,0,8619,United States of America,232
+260,US,0,50620,United States of America,749
+261,US,0,1724,United States of America,881
+262,US,0,267935,United States of America,2240
+263,IN,20,267935,India,2240
+264,US,0,281957,United States of America,1586
+265,CA,11,281957,Canada,1586
+266,HK,21,281957,Hong Kong,1586
+267,TW,22,281957,Taiwan,1586
+268,US,0,77950,United States of America,1830
+269,US,0,44896,United States of America,1745
+270,US,0,270946,United States of America,320
+271,US,0,2503,United States of America,1265
+272,DE,9,2503,Germany,1265
+273,US,0,9502,United States of America,669
+274,US,0,102899,United States of America,1972
+275,US,0,101299,United States of America,2397
+276,US,0,228161,United States of America,1596
+277,US,0,74,United States of America,33
+278,US,0,8961,United States of America,1945
+279,US,0,417859,United States of America,28
+280,US,0,27576,United States of America,1437
+281,US,0,86834,United States of America,2021
+282,US,0,17578,United States of America,612
+283,NZ,8,17578,New Zealand,612
+284,US,0,673,United States of America,363
+285,GB,1,673,United Kingdom,363
+286,US,0,6972,United States of America,2522
+287,GB,1,6972,United Kingdom,2522
+288,AU,15,6972,Australia,2522
+289,US,0,82700,United States of America,429
+290,US,0,10567,United States of America,1209
+291,US,0,181533,United States of America,668
+292,GB,1,181533,United Kingdom,668
+293,US,0,38055,United States of America,2112
+294,US,0,671,United States of America,361
+295,GB,1,671,United Kingdom,361
+296,US,0,49524,United States of America,200
+297,US,0,22,United States of America,10
+298,US,0,131631,United States of America,1567
+299,US,0,591,United States of America,307
+300,GB,1,591,United Kingdom,307
+301,MT,14,591,Malta,307
+302,FR,16,591,France,307
+303,US,0,172385,United States of America,191
+304,US,0,36658,United States of America,1725
+305,US,0,51497,United States of America,1198
+306,US,0,58574,United States of America,627
+307,US,0,18823,United States of America,1235
+308,US,0,861,United States of America,477
+309,US,0,1911,United States of America,1544
+310,US,0,49040,United States of America,2678
+311,US,0,415,United States of America,224
+312,GB,1,415,United Kingdom,224
+313,US,0,8871,United States of America,1790
+314,DE,9,8871,Germany,1790
+315,US,0,435,United States of America,236
+316,US,0,955,United States of America,2217
+317,DE,9,955,Germany,2217
+318,US,0,2133,United States of America,1108
+319,US,0,1979,United States of America,1026
+320,GB,1,1979,United Kingdom,1026
+321,DE,9,1979,Germany,1026
+322,US,0,87827,United States of America,2266
+323,GB,1,87827,United Kingdom,2266
+324,TW,22,87827,Taiwan,2266
+325,US,0,1250,United States of America,638
+326,AU,15,1250,Australia,638
+327,US,0,324668,United States of America,2086
+328,GB,1,324668,United Kingdom,2086
+329,CN,10,324668,China,2086
+330,US,0,9471,United States of America,655
+331,US,0,70981,United States of America,2807
+332,GB,1,70981,United Kingdom,2807
+333,US,0,10996,United States of America,1362
+334,US,0,68724,United States of America,1514
+335,US,0,2789,United States of America,1357
+336,US,0,97020,United States of America,2504
+337,CA,11,97020,Canada,2504
+338,US,0,7459,United States of America,2656
+339,DE,9,7459,Germany,2656
+340,AU,15,7459,Australia,2656
+341,US,0,42888,United States of America,1573
+342,US,0,37834,United States of America,2061
+343,US,0,75612,United States of America,970
+344,US,0,1895,United States of America,977
+345,US,0,1894,United States of America,976
+346,US,0,585,United States of America,302
+347,US,0,76170,United States of America,1237
+348,GB,1,76170,United Kingdom,1237
+349,US,0,1893,United States of America,975
+350,US,0,49519,United States of America,196
+351,US,0,12100,United States of America,1732
+352,US,0,290595,United States of America,1244
+353,US,0,98566,United States of America,151
+354,US,0,49047,United States of America,2803
+355,GB,1,49047,United Kingdom,2803
+356,US,0,9619,United States of America,199
+357,US,0,308531,United States of America,2761
+358,CN,10,308531,China,2761
+359,HK,21,308531,Hong Kong,2761
+360,US,0,166424,United States of America,1294
+361,US,0,1593,United States of America,811
+362,GB,1,1593,United Kingdom,811
+363,US,0,254128,United States of America,99
+364,CA,11,254128,Canada,99
+365,AU,15,254128,Australia,99
+366,US,0,714,United States of America,392
+367,GB,1,714,United Kingdom,392
+368,US,0,2024,United States of America,1056
+369,DE,9,2024,Germany,1056
+370,US,0,163,United States of America,525
+371,US,0,787,United States of America,2267
+372,US,0,262500,United States of America,192
+373,US,0,2567,United States of America,1286
+374,US,0,38745,United States of America,2284
+375,US,0,40805,United States of America,2779
+376,US,0,53182,United States of America,1781
+377,US,0,41513,United States of America,288
+378,US,0,13700,United States of America,2161
+379,US,0,262504,United States of America,194
+380,US,0,39254,United States of America,2404
+381,IN,20,39254,India,2404
+382,US,0,77931,United States of America,2196
+383,US,0,1639,United States of America,839
+384,US,0,80274,United States of America,2422
+385,US,0,1571,United States of America,795
+386,GB,1,1571,United Kingdom,795
+387,US,0,120,United States of America,64
+388,NZ,8,120,New Zealand,64
+389,US,0,10204,United States of America,1048
+390,GB,1,10204,United Kingdom,1048
+391,DE,9,10204,Germany,1048
+392,IE,24,10204,Ireland,1048
+393,US,0,8489,United States of America,167
+394,US,0,2048,United States of America,1068
+395,DE,9,2048,Germany,1068
+396,US,0,1495,United States of America,762
+397,GB,1,1495,United Kingdom,762
+398,DE,9,1495,Germany,762
+399,ES,18,1495,Spain,762
+400,MA,25,1495,Morocco,762
+401,US,0,10137,United States of America,1006
+402,DE,9,10137,Germany,1006
+403,US,0,10198,United States of America,1043
+404,US,0,286217,United States of America,2709
+405,US,0,1635,United States of America,836
+406,US,0,9679,United States of America,399
+407,US,0,98,United States of America,49
+408,GB,1,98,United Kingdom,49
+409,US,0,180,United States of America,102
+410,US,0,672,United States of America,362
+411,GB,1,672,United Kingdom,362
+412,DE,9,672,Germany,362
+413,US,0,36557,United States of America,1695
+414,GB,1,36557,United Kingdom,1695
+415,CZ,5,36557,Czech Republic,1695
+416,DE,9,36557,Germany,1695
+417,IT,12,36557,Italy,1695
+418,US,0,869,United States of America,483
+419,US,0,280,United States of America,161
+420,FR,16,280,France,161
+421,US,0,11322,United States of America,1492
+422,US,0,4982,United States of America,2045
+423,GB,1,4982,United Kingdom,2045
+424,US,0,36955,United States of America,1819
+425,US,0,18487,United States of America,1091
+426,US,0,39451,United States of America,2463
+427,US,0,27581,United States of America,1440
+428,US,0,9268,United States of America,550
+429,CA,11,9268,Canada,550
+430,US,0,68718,United States of America,1509
+431,US,0,10545,United States of America,1199
+432,US,0,11688,United States of America,1608
+433,US,0,76163,United States of America,873
+434,US,0,2059,United States of America,1075
+435,US,0,2486,United States of America,1255
+436,GB,1,2486,United Kingdom,1255
+437,HU,26,2486,Hungary,1255
+438,US,0,16523,United States of America,73
+439,US,0,116711,United States of America,2534
+440,US,0,37710,United States of America,2032
+441,GB,1,37710,United Kingdom,2032
+442,IT,12,37710,Italy,2032
+443,FR,16,37710,France,2032
+444,US,0,9946,United States of America,899
+445,US,0,1372,United States of America,699
+446,DE,9,1372,Germany,699
+447,US,0,106646,United States of America,78
+448,US,0,414,United States of America,223
+449,GB,1,414,United Kingdom,223
+450,US,0,563,United States of America,295
+451,US,0,83542,United States of America,829
+452,DE,9,83542,Germany,829
+453,HK,21,83542,Hong Kong,829
+454,SG,27,83542,Singapore,829
+455,US,0,41216,United States of America,146
+456,AU,15,41216,Australia,146
+457,US,0,314,United States of America,173
+458,US,0,184315,United States of America,1797
+459,US,0,9016,United States of America,459
+460,US,0,18162,United States of America,910
+461,US,0,138103,United States of America,2546
+462,FR,16,138103,France,2546
+463,US,0,257088,United States of America,1495
+464,DE,9,257088,Germany,1495
+465,CN,10,257088,China,1495
+466,US,0,205775,United States of America,523
+467,US,0,11692,United States of America,1611
+468,AU,15,11692,Australia,1611
+469,US,0,22972,United States of America,2439
+470,GB,1,22972,United Kingdom,2439
+471,FR,16,22972,France,2439
+472,ES,18,22972,Spain,2439
+473,US,0,29193,United States of America,1946
+474,US,0,1734,United States of America,888
+475,US,0,3131,United States of America,1493
+476,IT,12,3131,Italy,1493
+477,US,0,9408,United States of America,622
+478,US,0,9890,United States of America,865
+479,US,0,855,United States of America,473
+480,GB,1,855,United Kingdom,473
+481,US,0,37786,United States of America,2053
+482,US,0,10501,United States of America,2197
+483,US,0,57800,United States of America,246
+484,US,0,150689,United States of America,1445
+485,GB,1,150689,United Kingdom,1445
+486,US,0,7980,United States of America,2506
+487,GB,1,7980,United Kingdom,2506
+488,NZ,8,7980,New Zealand,2506
+489,US,0,12,United States of America,5
+490,US,0,122,United States of America,66
+491,NZ,8,122,New Zealand,66
+492,US,0,121,United States of America,65
+493,NZ,8,121,New Zealand,65
+494,US,0,68737,United States of America,1521
+495,GB,1,68737,United Kingdom,1521
+496,CN,10,68737,China,1521
+497,CA,11,68737,Canada,1521
+498,US,0,1995,United States of America,1034
+499,US,0,157353,United States of America,871
+500,GB,1,157353,United Kingdom,871
+501,CN,10,157353,China,871
+502,US,0,331,United States of America,1028
+503,US,0,61791,United States of America,1894
+504,US,0,8204,United States of America,32
+505,US,0,47964,United States of America,2535
+506,US,0,10733,United States of America,1280
+507,US,0,9806,United States of America,824
+508,US,0,1408,United States of America,719
+509,DE,9,1408,Germany,719
+510,IT,12,1408,Italy,719
+511,FR,16,1408,France,719
+512,US,0,32657,United States of America,2801
+513,CA,11,32657,Canada,2801
+514,US,0,607,United States of America,318
+515,US,0,863,United States of America,2085
+516,US,0,44048,United States of America,1476
+517,US,0,5175,United States of America,2082
+518,US,0,2655,United States of America,1320
+519,US,0,22794,United States of America,2380
+520,US,0,8355,United States of America,88
+521,US,0,116745,United States of America,1815
+522,US,0,4327,United States of America,1859
+523,US,0,1422,United States of America,724
+524,HK,21,1422,Hong Kong,724
+525,US,0,10674,United States of America,1253
+526,US,0,7446,United States of America,2648
+527,GB,1,7446,United Kingdom,2648
+528,DE,9,7446,Germany,2648
+529,US,0,65754,United States of America,125
+530,NO,28,65754,Norway,125
+531,SE,29,65754,Sweden,125
+532,US,0,1572,United States of America,796
+533,US,0,10528,United States of America,1194
+534,GB,1,10528,United Kingdom,1194
+535,DE,9,10528,Germany,1194
+536,US,0,271969,United States of America,834
+537,US,0,10865,United States of America,1324
+538,US,0,2253,United States of America,1158
+539,DE,9,2253,Germany,1158
+540,US,0,10661,United States of America,1247
+541,US,0,257344,United States of America,1577
+542,US,0,644,United States of America,343
+543,US,0,10756,United States of America,1285
+544,US,0,686,United States of America,372
+545,US,0,9383,United States of America,610
+546,DE,9,9383,Germany,610
+547,US,0,179,United States of America,101
+548,GB,1,179,United Kingdom,101
+549,DE,9,179,Germany,101
+550,FR,16,179,France,101
+551,US,0,76285,United States of America,1283
+552,US,0,1996,United States of America,1035
+553,GB,1,1996,United Kingdom,1035
+554,DE,9,1996,Germany,1035
+555,JP,13,1996,Japan,1035
+556,US,0,291805,United States of America,2066
+557,GB,1,291805,United Kingdom,2066
+558,CN,10,291805,China,2066
+559,CA,11,291805,Canada,2066
+560,US,0,10003,United States of America,926
+561,US,0,1535,United States of America,777
+562,GB,1,1535,United Kingdom,777
+563,US,0,2067,United States of America,1078
+564,US,0,46195,United States of America,2097
+565,US,0,2277,United States of America,1168
+566,DE,9,2277,Germany,1168
+567,US,0,4477,United States of America,1901
+568,US,0,8665,United States of America,250
+569,GB,1,8665,United Kingdom,250
+570,DE,9,8665,Germany,250
+571,CA,11,8665,Canada,250
+572,US,0,9387,United States of America,613
+573,US,0,921,United States of America,504
+574,US,0,4464,United States of America,1895
+575,US,0,664,United States of America,357
+576,US,0,8358,United States of America,90
+577,US,0,2502,United States of America,1264
+578,DE,9,2502,Germany,1264
+579,US,0,9772,United States of America,804
+580,DE,9,9772,Germany,804
+581,US,0,161,United States of America,86
+582,US,0,52451,United States of America,1553
+583,GB,1,52451,United Kingdom,1553
+584,DE,9,52451,Germany,1553
+585,FR,16,52451,France,1553
+586,US,0,76492,United States of America,1579
+587,US,0,4523,United States of America,1913
+588,US,0,59961,United States of America,1303
+589,US,0,10481,United States of America,2167
+590,US,0,59108,United States of America,2190
+591,US,0,1581,United States of America,805
+592,GB,1,1581,United Kingdom,805
+593,US,0,9798,United States of America,817
+594,US,0,22897,United States of America,2409
+595,US,0,298,United States of America,168
+596,US,0,7484,United States of America,2667
+597,US,0,157350,United States of America,1053
+598,US,0,853,United States of America,471
+599,GB,1,853,United Kingdom,471
+600,DE,9,853,Germany,471
+601,IE,24,853,Ireland,471
+602,US,0,10159,United States of America,1019
+603,US,0,9593,United States of America,714
+604,US,0,1904,United States of America,2776
+605,US,0,9615,United States of America,725
+606,JP,13,9615,Japan,725
+607,US,0,297,United States of America,1661
+608,US,0,9884,United States of America,863
+609,US,0,62764,United States of America,2145
+610,US,0,22538,United States of America,2329
+611,CA,11,22538,Canada,2329
+612,US,0,9341,United States of America,585
+613,DE,9,9341,Germany,585
+614,CA,11,9341,Canada,585
+615,US,0,12107,United States of America,1735
+616,US,0,9637,United States of America,737
+617,US,0,49049,United States of America,2804
+618,GB,1,49049,United Kingdom,2804
+619,IN,20,49049,India,2804
+620,ZA,30,49049,South Africa,2804
+621,US,0,9339,United States of America,584
+622,US,0,16281,United States of America,2692
+623,US,0,39691,United States of America,2507
+624,AU,15,39691,Australia,2507
+625,US,0,8247,United States of America,22
+626,CA,11,8247,Canada,22
+627,US,0,11253,United States of America,1466
+628,DE,9,11253,Germany,1466
+629,US,0,1949,United States of America,1010
+630,US,0,8452,United States of America,149
+631,US,0,310,United States of America,172
+632,US,0,27578,United States of America,1438
+633,US,0,954,United States of America,518
+634,US,0,70160,United States of America,1948
+635,US,0,45243,United States of America,1849
+636,US,0,364,United States of America,195
+637,GB,1,364,United Kingdom,195
+638,US,0,7518,United States of America,1938
+639,US,0,11544,United States of America,1565
+640,US,0,9986,United States of America,918
+641,DE,9,9986,Germany,918
+642,US,0,8656,United States of America,248
+643,US,0,9291,United States of America,564
+644,US,0,55301,United States of America,2327
+645,US,0,109418,United States of America,1401
+646,US,0,11665,United States of America,1599
+647,CA,11,11665,Canada,1599
+648,RU,31,11665,Russia,1599
+649,US,0,6964,United States of America,2519
+650,US,0,11324,United States of America,1494
+651,US,0,12193,United States of America,1771
+652,US,0,9928,United States of America,890
+653,US,0,754,United States of America,1914
+654,US,0,10202,United States of America,1047
+655,US,0,4147,United States of America,1812
+656,US,0,50546,United States of America,712
+657,US,0,1701,United States of America,867
+658,US,0,13027,United States of America,1989
+659,DE,9,13027,Germany,1989
+660,US,0,2289,United States of America,1175
+661,GB,1,2289,United Kingdom,1175
+662,IT,12,2289,Italy,1175
+663,RO,32,2289,Romania,1175
+664,US,0,20504,United States of America,1804
+665,US,0,9574,United States of America,52
+666,US,0,11618,United States of America,1817
+667,US,0,2300,United States of America,1184
+668,US,0,10200,United States of America,1045
+669,CA,11,10200,Canada,1045
+670,US,0,8834,United States of America,1709
+671,US,0,228150,United States of America,2520
+672,GB,1,228150,United Kingdom,2520
+673,CN,10,228150,China,2520
+674,US,0,6068,United States of America,2308
+675,US,0,41515,United States of America,289
+676,NZ,8,41515,New Zealand,289
+677,US,0,9023,United States of America,461
+678,US,0,38317,United States of America,2168
+679,US,0,2157,United States of America,1121
+680,US,0,14462,United States of America,2353
+681,US,0,159824,United States of America,1818
+682,US,0,49948,United States of America,1979
+683,US,0,2135,United States of America,1109
+684,US,0,9705,United States of America,772
+685,AU,15,9705,Australia,772
+686,US,0,1656,United States of America,848
+687,MX,33,1656,Mexico,848
+688,US,0,12159,United States of America,1760
+689,NZ,8,12159,New Zealand,1760
+690,US,0,4442,United States of America,1191
+691,GB,1,4442,United Kingdom,1191
+692,CZ,5,4442,Czech Republic,1191
+693,US,0,75,United States of America,34
+694,US,0,19959,United States of America,2062
+695,US,0,11973,United States of America,1689
+696,US,0,11228,United States of America,1456
+697,US,0,77951,United States of America,1831
+698,GB,1,77951,United Kingdom,1831
+699,AU,15,77951,Australia,1831
+700,IN,20,77951,India,1831
+701,US,0,5491,United States of America,2156
+702,US,0,10715,United States of America,1274
+703,DE,9,10715,Germany,1274
+704,US,0,10197,United States of America,1706
+705,IT,12,10197,Italy,1706
+706,US,0,9562,United States of America,697
+707,US,0,9922,United States of America,886
+708,US,0,274854,United States of America,1912
+709,US,0,8870,United States of America,367
+710,AU,15,8870,Australia,367
+711,US,0,10077,United States of America,971
+712,GB,1,10077,United Kingdom,971
+713,CZ,5,10077,Czech Republic,971
+714,DE,9,10077,Germany,971
+715,US,0,76649,United States of America,2811
+716,DE,9,76649,Germany,2811
+717,CA,11,76649,Canada,2811
+718,US,0,453,United States of America,1339
+719,US,0,8587,United States of America,214
+720,US,0,72545,United States of America,2537
+721,US,0,109451,United States of America,1413
+722,US,0,9533,United States of America,682
+723,DE,9,9533,Germany,682
+724,US,0,2023,United States of America,1055
+725,MA,25,2023,Morocco,1055
+726,US,0,71880,United States of America,2365
+727,US,0,584,United States of America,301
+728,US,0,4858,United States of America,1996
+729,AU,15,4858,Australia,1996
+730,US,0,17711,United States of America,678
+731,DE,9,17711,Germany,678
+732,US,0,328111,United States of America,1295
+733,US,0,8698,United States of America,266
+734,GB,1,8698,United Kingdom,266
+735,CZ,5,8698,Czech Republic,266
+736,DE,9,8698,Germany,266
+737,US,0,93456,United States of America,1563
+738,US,0,602,United States of America,313
+739,US,0,330,United States of America,181
+740,US,0,953,United States of America,517
+741,US,0,9693,United States of America,766
+742,GB,1,9693,United Kingdom,766
+743,US,0,36657,United States of America,1724
+744,US,0,8909,United States of America,393
+745,DE,9,8909,Germany,393
+746,US,0,9802,United States of America,821
+747,US,0,950,United States of America,514
+748,US,0,1824,United States of America,937
+749,US,0,2976,United States of America,1426
+750,GB,1,2976,United Kingdom,1426
+751,US,0,11026,United States of America,1372
+752,US,0,75656,United States of America,995
+753,FR,16,75656,France,995
+754,US,0,38365,United States of America,2183
+755,US,0,594,United States of America,309
+756,US,0,15189,United States of America,2533
+757,US,0,11678,United States of America,1603
+758,NZ,8,11678,New Zealand,1603
+759,PK,34,11678,Pakistan,1603
+760,US,0,6538,United States of America,2419
+761,US,0,10555,United States of America,1204
+762,US,0,1125,United States of America,576
+763,US,0,4551,United States of America,1922
+764,US,0,612,United States of America,322
+765,CA,11,612,Canada,322
+766,FR,16,612,France,322
+767,US,0,9567,United States of America,701
+768,US,0,37821,United States of America,2060
+769,US,0,203801,United States of America,2581
+770,US,0,2539,United States of America,1893
+771,US,0,9297,United States of America,568
+772,US,0,3172,United States of America,1506
+773,US,0,6520,United States of America,2412
+774,US,0,37958,United States of America,2089
+775,US,0,2026,United States of America,1758
+776,DE,9,2026,Germany,1758
+777,US,0,7450,United States of America,2650
+778,US,0,11375,United States of America,1510
+779,US,0,9425,United States of America,629
+780,US,0,23685,United States of America,2606
+781,US,0,11866,United States of America,1665
+782,US,0,9741,United States of America,784
+783,US,0,211672,United States of America,2494
+784,US,0,23629,United States of America,2589
+785,US,0,8688,United States of America,261
+786,CA,11,8688,Canada,261
+787,US,0,10153,United States of America,1632
+788,US,0,153518,United States of America,2306
+789,FI,35,153518,Finland,2306
+790,US,0,8676,United States of America,254
+791,US,0,20829,United States of America,1892
+792,US,0,4349,United States of America,1864
+793,DE,9,4349,Germany,1864
+794,US,0,9718,United States of America,775
+795,US,0,10808,United States of America,1302
+796,US,0,197,United States of America,114
+797,US,0,25,United States of America,12
+798,DE,9,25,Germany,12
+799,US,0,35,United States of America,18
+800,US,0,11086,United States of America,1389
+801,US,0,10477,United States of America,1172
+802,CA,11,10477,Canada,1172
+803,AU,15,10477,Australia,1172
+804,US,0,6947,United States of America,2514
+805,US,0,3050,United States of America,1462
+806,US,0,2675,United States of America,1326
+807,US,0,809,United States of America,448
+808,US,0,920,United States of America,503
+809,US,0,4806,United States of America,1982
+810,US,0,7451,United States of America,2651
+811,US,0,228165,United States of America,2528
+812,US,0,3595,United States of America,1639
+813,US,0,16869,United States of America,255
+814,DE,9,16869,Germany,255
+815,US,0,879,United States of America,490
+816,US,0,1573,United States of America,636
+817,US,0,9257,United States of America,546
+818,US,0,1903,United States of America,982
+819,US,0,9697,United States of America,767
+820,US,0,395,United States of America,1207
+821,GB,1,395,United Kingdom,1207
+822,CZ,5,395,Czech Republic,1207
+823,DE,9,395,Germany,1207
+824,CA,11,395,Canada,1207
+825,US,0,23398,United States of America,2540
+826,US,0,10590,United States of America,1219
+827,DE,9,10590,Germany,1219
+828,US,0,117263,United States of America,2595
+829,US,0,200,United States of America,116
+830,US,0,44943,United States of America,1767
+831,US,0,587,United States of America,304
+832,US,0,57212,United States of America,2792
+833,US,0,152760,United States of America,2119
+834,DE,9,152760,Germany,2119
+835,US,0,2756,United States of America,1347
+836,US,0,33909,United States of America,580
+837,US,0,49017,United States of America,2790
+838,US,0,9882,United States of America,861
+839,US,0,2270,United States of America,1166
+840,GB,1,2270,United Kingdom,1166
+841,IS,36,2270,Iceland,1166
+842,US,0,978,United States of America,524
+843,US,0,44564,United States of America,2099
+844,US,0,3132,United States of America,1752
+845,US,0,8814,United States of America,1680
+846,GB,1,8814,United Kingdom,1680
+847,CZ,5,8814,Czech Republic,1680
+848,DE,9,8814,Germany,1680
+849,US,0,8427,United States of America,135
+850,US,0,52520,United States of America,1570
+851,US,0,80585,United States of America,2490
+852,US,0,10592,United States of America,1221
+853,US,0,49021,United States of America,2793
+854,AU,15,49021,Australia,2793
+855,US,0,10550,United States of America,1202
+856,DE,9,10550,Germany,1202
+857,US,0,11258,United States of America,1468
+858,GB,1,11258,United Kingdom,1468
+859,NZ,8,11258,New Zealand,1468
+860,FR,16,11258,France,1468
+861,DK,37,11258,Denmark,1468
+862,US,0,12610,United States of America,1884
+863,US,0,59981,United States of America,1314
+864,IN,20,59981,India,1314
+865,US,0,201088,United States of America,1902
+866,US,0,5137,United States of America,2073
+867,GB,1,5137,United Kingdom,2073
+868,US,0,3093,United States of America,1481
+869,GB,1,3093,United Kingdom,1481
+870,DE,9,3093,Germany,1481
+871,US,0,107846,United States of America,685
+872,US,0,188207,United States of America,2760
+873,US,0,4614,United States of America,1944
+874,US,0,24021,United States of America,2700
+875,US,0,11371,United States of America,1508
+876,DE,9,11371,Germany,1508
+877,US,0,20352,United States of America,1761
+878,US,0,11517,United States of America,1631
+879,US,0,214756,United States of America,904
+880,US,0,9824,United States of America,833
+881,US,0,48988,United States of America,2772
+882,US,0,9008,United States of America,453
+883,US,0,300673,United States of America,2228
+884,US,0,12113,United States of America,1738
+885,GB,1,12113,United Kingdom,1738
+886,US,0,38778,United States of America,2292
+887,US,0,72331,United States of America,2481
+888,US,0,1844,United States of America,947
+889,GB,1,1844,United Kingdom,947
+890,US,0,846,United States of America,468
+891,CA,11,846,Canada,468
+892,US,0,857,United States of America,474
+893,US,0,136797,United States of America,2214
+894,GB,1,136797,United Kingdom,2214
+895,FR,16,136797,France,2214
+896,PH,39,136797,Philippines,2214
+897,US,0,3981,United States of America,1766
+898,US,0,425,United States of America,230
+899,US,0,6171,United States of America,2334
+900,US,0,72976,United States of America,2645
+901,IN,20,72976,India,2645
+902,US,0,603,United States of America,314
+903,AU,15,603,Australia,314
+904,US,0,568,United States of America,296
+905,US,0,9021,United States of America,460
+906,US,0,82695,United States of America,425
+907,GB,1,82695,United Kingdom,425
+908,US,0,9489,United States of America,663
+909,US,0,12133,United States of America,1746
+910,US,0,9342,United States of America,586
+911,US,0,41733,United States of America,2813
+912,US,0,227306,United States of America,2319
+913,US,0,5551,United States of America,2170
+914,US,0,9350,United States of America,589
+915,IT,12,9350,Italy,589
+916,FR,16,9350,France,589
+917,US,0,9208,United States of America,530
+918,US,0,4244,United States of America,1838
+919,US,0,1852,United States of America,950
+920,US,0,76493,United States of America,1584
+921,US,0,345,United States of America,188
+922,GB,1,345,United Kingdom,188
+923,US,0,196867,United States of America,148
+924,US,0,256591,United States of America,2702
+925,US,0,59962,United States of America,1304
+926,US,0,36648,United States of America,1721
+927,US,0,1880,United States of America,967
+928,US,0,71679,United States of America,2325
+929,DE,9,71679,Germany,2325
+930,CA,11,71679,Canada,2325
+931,FR,16,71679,France,2325
+932,US,0,10483,United States of America,1176
+933,GB,1,10483,United Kingdom,1176
+934,DE,9,10483,Germany,1176
+935,US,0,11412,United States of America,1529
+936,US,0,6795,United States of America,2763
+937,US,0,550,United States of America,287
+938,DE,9,550,Germany,287
+939,US,0,11170,United States of America,1428
+940,US,0,9292,United States of America,565
+941,US,0,100241,United States of America,1588
+942,AU,15,100241,Australia,1588
+943,US,0,9947,United States of America,900
+944,CA,11,9947,Canada,900
+945,US,0,189,United States of America,109
+946,US,0,12618,United States of America,1887
+947,US,0,253412,United States of America,2704
+948,GB,1,253412,United Kingdom,2704
+949,IS,36,253412,Iceland,2704
+950,US,0,818,United States of America,2826
+951,US,0,16577,United States of America,111
+952,JP,13,16577,Japan,111
+953,HK,21,16577,Hong Kong,111
+954,US,0,329,United States of America,180
+955,US,0,12160,United States of America,2641
+956,US,0,9331,United States of America,579
+957,US,0,9072,United States of America,2107
+958,US,0,3536,United States of America,2743
+959,FR,16,3536,France,2743
+960,US,0,9087,United States of America,2135
+961,US,0,12177,United States of America,1768
+962,GB,1,12177,United Kingdom,1768
+963,DE,9,12177,Germany,1768
+964,US,0,12138,United States of America,1748
+965,US,0,273248,United States of America,1397
+966,US,0,1271,United States of America,651
+967,US,0,693,United States of America,377
+968,US,0,14306,United States of America,1736
+969,US,0,497,United States of America,262
+970,US,0,9982,United States of America,916
+971,US,0,210577,United States of America,2235
+972,US,0,2501,United States of America,1263
+973,CZ,5,2501,Czech Republic,1263
+974,DE,9,2501,Germany,1263
+975,US,0,710,United States of America,388
+976,GB,1,710,United Kingdom,388
+977,US,0,2275,United States of America,1167
+978,DE,9,2275,Germany,1167
+979,US,0,37165,United States of America,924
+980,US,0,9837,United States of America,844
+981,US,0,10708,United States of America,2731
+982,US,0,136400,United States of America,2126
+983,US,0,10992,United States of America,1360
+984,US,0,9654,United States of America,745
+985,GB,1,9654,United Kingdom,745
+986,US,0,2642,United States of America,1316
+987,AU,15,2642,Australia,1316
+988,US,0,8916,United States of America,395
+989,US,0,19899,United States of America,1619
+990,US,0,2119,United States of America,1100
+991,US,0,9641,United States of America,739
+992,US,0,294254,United States of America,2681
+993,US,0,38167,United States of America,2142
+994,US,0,39514,United States of America,2472
+995,US,0,9563,United States of America,698
+996,US,0,547,United States of America,285
+997,US,0,1538,United States of America,779
+998,US,0,9334,United States of America,581
+999,DE,9,9334,Germany,581
+1000,BE,23,9334,Belgium,581
+1001,US,0,11128,United States of America,1406
+1002,US,0,75780,United States of America,1069
+1003,US,0,8914,United States of America,394
+1004,AU,15,8914,Australia,394
+1005,US,0,39538,United States of America,2475
+1006,AE,19,39538,United Arab Emirates,2475
+1007,US,0,14836,United States of America,2451
+1008,US,0,8645,United States of America,243
+1009,FR,16,8645,France,243
+1010,IN,20,8645,India,243
+1011,US,0,9509,United States of America,674
+1012,GB,1,9509,United Kingdom,674
+1013,US,0,10067,United States of America,963
+1014,US,0,9384,United States of America,611
+1015,US,0,9279,United States of America,379
+1016,US,0,1487,United States of America,756
+1017,US,0,9422,United States of America,2634
+1018,US,0,77174,United States of America,1850
+1019,US,0,4824,United States of America,1985
+1020,US,0,9620,United States of America,729
+1021,CA,11,9620,Canada,729
+1022,US,0,10199,United States of America,1044
+1023,GB,1,10199,United Kingdom,1044
+1024,US,0,3512,United States of America,1616
+1025,US,0,137094,United States of America,1569
+1026,RU,31,137094,Russia,1569
+1027,US,0,274479,United States of America,1811
+1028,US,0,267860,United States of America,2211
+1029,GB,1,267860,United Kingdom,2211
+1030,BG,40,267860,Bulgaria,2211
+1031,US,0,8078,United States of America,2799
+1032,US,0,7485,United States of America,2668
+1033,US,0,170687,United States of America,2488
+1034,US,0,6435,United States of America,2389
+1035,US,0,137106,United States of America,2300
+1036,US,0,6278,United States of America,2354
+1037,GB,1,6278,United Kingdom,2354
+1038,IE,24,6278,Ireland,2354
+1039,US,0,82682,United States of America,414
+1040,US,0,17610,United States of America,625
+1041,US,0,22954,United States of America,2433
+1042,US,0,16995,United States of America,321
+1043,GB,1,16995,United Kingdom,321
+1044,FR,16,16995,France,321
+1045,US,0,16558,United States of America,97
+1046,DE,9,16558,Germany,97
+1047,US,0,9849,United States of America,1871
+1048,US,0,5820,United States of America,2246
+1049,US,0,16866,United States of America,253
+1050,GB,1,16866,United Kingdom,253
+1051,ES,18,16866,Spain,253
+1052,US,0,201,United States of America,117
+1053,US,0,11775,United States of America,1634
+1054,US,0,12201,United States of America,1774
+1055,GB,1,12201,United Kingdom,1774
+1056,US,0,11015,United States of America,1369
+1057,GB,1,11015,United Kingdom,1369
+1058,NZ,8,11015,New Zealand,1369
+1059,DE,9,11015,Germany,1369
+1060,JP,13,11015,Japan,1369
+1061,US,0,9932,United States of America,892
+1062,AU,15,9932,Australia,892
+1063,US,0,13389,United States of America,2091
+1064,US,0,17332,United States of America,513
+1065,US,0,4958,United States of America,2080
+1066,US,0,786,United States of America,1970
+1067,US,0,11679,United States of America,1604
+1068,US,0,38321,United States of America,2171
+1069,US,0,14411,United States of America,2342
+1070,US,0,8413,United States of America,127
+1071,GB,1,8413,United Kingdom,127
+1072,US,0,10052,United States of America,954
+1073,DE,9,10052,Germany,954
+1074,US,0,9676,United States of America,755
+1075,DE,9,9676,Germany,755
+1076,FR,16,9676,France,755
+1077,US,0,9664,United States of America,750
+1078,GB,1,9664,United Kingdom,750
+1079,US,0,2100,United States of America,1090
+1080,US,0,10384,United States of America,1132
+1081,CH,41,10384,Switzerland,1132
+1082,US,0,137321,United States of America,2349
+1083,US,0,123553,United States of America,1784
+1084,US,0,11260,United States of America,1469
+1085,US,0,9009,United States of America,2015
+1086,US,0,2309,United States of America,1185
+1087,GB,1,2309,United Kingdom,1185
+1088,DE,9,2309,Germany,1185
+1089,US,0,8285,United States of America,46
+1090,US,0,210860,United States of America,2305
+1091,US,0,13922,United States of America,2216
+1092,US,0,293660,United States of America,2512
+1093,US,0,190859,United States of America,1238
+1094,US,0,257445,United States of America,1607
+1095,AU,15,257445,Australia,1607
+1096,US,0,9007,United States of America,452
+1097,US,0,889,United States of America,2129
+1098,US,0,1370,United States of America,14
+1099,US,0,4942,United States of America,2065
+1100,DE,9,4942,Germany,2065
+1101,US,0,24438,United States of America,2788
+1102,US,0,116741,United States of America,1070
+1103,US,0,35791,United States of America,1450
+1104,DE,9,35791,Germany,1450
+1105,CA,11,35791,Canada,1450
+1106,FR,16,35791,France,1450
+1107,US,0,72431,United States of America,2500
+1108,US,0,1813,United States of America,928
+1109,DE,9,1813,Germany,928
+1110,US,0,87428,United States of America,162
+1111,US,0,8840,United States of America,346
+1112,US,0,10589,United States of America,1218
+1113,US,0,71676,United States of America,2324
+1114,AE,19,71676,United Arab Emirates,2324
+1115,US,0,1722,United States of America,880
+1116,GB,1,1722,United Kingdom,880
+1117,FR,16,1722,France,880
+1118,US,0,10022,United States of America,939
+1119,CA,11,10022,Canada,939
+1120,US,0,11358,United States of America,1502
+1121,US,0,13,United States of America,6
+1122,US,0,6477,United States of America,2402
+1123,US,0,1597,United States of America,813
+1124,US,0,10530,United States of America,1195
+1125,US,0,1924,United States of America,992
+1126,GB,1,1924,United Kingdom,992
+1127,US,0,9327,United States of America,578
+1128,US,0,8488,United States of America,166
+1129,US,0,8273,United States of America,40
+1130,US,0,109424,United States of America,1403
+1131,US,0,35056,United States of America,1174
+1132,US,0,8839,United States of America,345
+1133,US,0,156022,United States of America,1154
+1134,US,0,7303,United States of America,2607
+1135,US,0,8963,United States of America,1949
+1136,US,0,1402,United States of America,715
+1137,US,0,9315,United States of America,574
+1138,US,0,8984,United States of America,437
+1139,US,0,795,United States of America,439
+1140,DE,9,795,Germany,439
+1141,US,0,24,United States of America,11
+1142,US,0,393,United States of America,213
+1143,US,0,9618,United States of America,727
+1144,US,0,9374,United States of America,604
+1145,US,0,8584,United States of America,1707
+1146,HK,21,8584,Hong Kong,1707
+1147,US,0,2320,United States of America,1187
+1148,US,0,58224,United States of America,491
+1149,US,0,1729,United States of America,885
+1150,CN,10,1729,China,885
+1151,US,0,175574,United States of America,1628
+1152,US,0,8077,United States of America,2798
+1153,GB,1,8077,United Kingdom,2798
+1154,US,0,8818,United States of America,332
+1155,HU,26,8818,Hungary,332
+1156,US,0,8195,United States of America,0
+1157,GB,1,8195,United Kingdom,0
+1158,FR,16,8195,France,0
+1159,US,0,10586,United States of America,1217
+1160,DE,9,10586,Germany,1217
+1161,US,0,80035,United States of America,2360
+1162,US,0,10632,United States of America,1236
+1163,US,0,1792,United States of America,917
+1164,US,0,3580,United States of America,1633
+1165,US,0,12123,United States of America,1742
+1166,US,0,9566,United States of America,700
+1167,US,0,9833,United States of America,841
+1168,GB,1,9833,United Kingdom,841
+1169,US,0,8202,United States of America,3
+1170,US,0,16072,United States of America,2362
+1171,US,0,34314,United States of America,782
+1172,US,0,145220,United States of America,2276
+1173,US,0,42297,United States of America,680
+1174,US,0,802,United States of America,443
+1175,GB,1,802,United Kingdom,443
+1176,US,0,10375,United States of America,1129
+1177,US,0,36586,United States of America,1699
+1178,DE,9,36586,Germany,1699
+1179,US,0,11321,United States of America,1491
+1180,US,0,70074,United States of America,1918
+1181,CH,41,70074,Switzerland,1918
+1182,US,0,242,United States of America,139
+1183,IT,12,242,Italy,139
+1184,US,0,9621,United States of America,206
+1185,US,0,1819,United States of America,932
+1186,US,0,8536,United States of America,187
+1187,GB,1,8536,United Kingdom,187
+1188,US,0,8046,United States of America,2784
+1189,US,0,1717,United States of America,878
+1190,US,0,479,United States of America,252
+1191,DE,9,479,Germany,252
+1192,US,0,9444,United States of America,640
+1193,US,0,824,United States of America,2034
+1194,AU,15,824,Australia,2034
+1195,US,0,11456,United States of America,2823
+1196,US,0,261023,United States of America,2554
+1197,GB,1,261023,United Kingdom,2554
+1198,US,0,3683,United States of America,1670
+1199,US,0,22803,United States of America,2385
+1200,US,0,285923,United States of America,2637
+1201,US,0,640,United States of America,339
+1202,US,0,97630,United States of America,2677
+1203,US,0,9767,United States of America,799
+1204,US,0,11631,United States of America,1841
+1205,GB,1,11631,United Kingdom,1841
+1206,DE,9,11631,Germany,1841
+1207,US,0,32856,United States of America,43
+1208,US,0,6519,United States of America,2411
+1209,US,0,8741,United States of America,1550
+1210,CA,11,8741,Canada,1550
+1211,US,0,49520,United States of America,197
+1212,US,0,1850,United States of America,1396
+1213,US,0,524,United States of America,278
+1214,FR,16,524,France,278
+1215,US,0,2123,United States of America,2384
+1216,US,0,9907,United States of America,877
+1217,DE,9,9907,Germany,877
+1218,US,0,18239,United States of America,951
+1219,US,0,808,United States of America,447
+1220,US,0,38050,United States of America,2108
+1221,US,0,8367,United States of America,98
+1222,US,0,9390,United States of America,616
+1223,US,0,72105,United States of America,2432
+1224,US,0,2898,United States of America,529
+1225,US,0,10312,United States of America,1101
+1226,US,0,109443,United States of America,1411
+1227,US,0,2022,United States of America,1054
+1228,US,0,37686,United States of America,2030
+1229,US,0,462,United States of America,247
+1230,US,0,9919,United States of America,883
+1231,DE,9,9919,Germany,883
+1232,US,0,187017,United States of America,2480
+1233,US,0,628,United States of America,334
+1234,US,0,10201,United States of America,1046
+1235,US,0,302699,United States of America,2726
+1236,US,0,274167,United States of America,1704
+1237,US,0,224141,United States of America,1415
+1238,US,0,388,United States of America,209
+1239,US,0,2112,United States of America,1094
+1240,US,0,10329,United States of America,1110
+1241,US,0,74465,United States of America,402
+1242,US,0,13811,United States of America,2188
+1243,GB,1,13811,United Kingdom,2188
+1244,AU,15,13811,Australia,2188
+1245,US,0,6877,United States of America,2496
+1246,US,0,10320,United States of America,1107
+1247,US,0,50646,United States of America,761
+1248,US,0,8920,United States of America,396
+1249,US,0,60308,United States of America,1420
+1250,US,0,6950,United States of America,2515
+1251,US,0,225574,United States of America,1880
+1252,GB,1,225574,United Kingdom,1880
+1253,FR,16,225574,France,1880
+1254,US,0,13836,United States of America,2193
+1255,US,0,752,United States of America,409
+1256,GB,1,752,United Kingdom,409
+1257,DE,9,752,Germany,409
+1258,US,0,6038,United States of America,2301
+1259,HK,21,6038,Hong Kong,2301
+1260,US,0,9975,United States of America,912
+1261,US,0,11451,United States of America,1537
+1262,US,0,12103,United States of America,1733
+1263,AU,15,12103,Australia,1733
+1264,US,0,60304,United States of America,1417
+1265,DE,9,60304,Germany,1417
+1266,US,0,2251,United States of America,1156
+1267,US,0,46529,United States of America,2176
+1268,US,0,231,United States of America,133
+1269,US,0,300671,United States of America,2227
+1270,MT,14,300671,Malta,2227
+1271,MA,25,300671,Morocco,2227
+1272,US,0,228326,United States of America,2568
+1273,MX,33,228326,Mexico,2568
+1274,US,0,9754,United States of America,790
+1275,AU,15,9754,Australia,790
+1276,US,0,66,United States of America,27
+1277,US,0,4421,United States of America,825
+1278,US,0,2649,United States of America,1318
+1279,US,0,588,United States of America,2378
+1280,CA,11,588,Canada,2378
+1281,JP,13,588,Japan,2378
+1282,FR,16,588,France,2378
+1283,US,0,71552,United States of America,2294
+1284,US,0,9631,United States of America,734
+1285,DE,9,9631,Germany,734
+1286,US,0,216282,United States of America,1548
+1287,US,0,306,United States of America,171
+1288,US,0,928,United States of America,509
+1289,US,0,205587,United States of America,434
+1290,US,0,1577,United States of America,801
+1291,GB,1,1577,United Kingdom,801
+1292,DE,9,1577,Germany,801
+1293,CA,11,1577,Canada,801
+1294,FR,16,1577,France,801
+1295,US,0,9801,United States of America,820
+1296,GB,1,9801,United Kingdom,820
+1297,DE,9,9801,Germany,820
+1298,FR,16,9801,France,820
+1299,IE,24,9801,Ireland,820
+1300,US,0,2116,United States of America,1097
+1301,US,0,9624,United States of America,732
+1302,US,0,14199,United States of America,2290
+1303,US,0,1907,United States of America,984
+1304,GB,1,1907,United Kingdom,984
+1305,US,0,4599,United States of America,1940
+1306,US,0,22832,United States of America,2395
+1307,DE,9,22832,Germany,2395
+1308,US,0,9879,United States of America,859
+1309,US,0,38579,United States of America,2245
+1310,US,0,44603,United States of America,1656
+1311,US,0,11892,United States of America,1673
+1312,US,0,9691,United States of America,765
+1313,FR,16,9691,France,765
+1314,US,0,12220,United States of America,1779
+1315,US,0,72710,United States of America,2574
+1316,US,0,10782,United States of America,1296
+1317,US,0,9573,United States of America,1723
+1318,US,0,4959,United States of America,2038
+1319,GB,1,4959,United Kingdom,2038
+1320,DE,9,4959,Germany,2038
+1321,US,0,10061,United States of America,959
+1322,US,0,10386,United States of America,1134
+1323,US,0,421,United States of America,227
+1324,US,0,316152,United States of America,1995
+1325,US,0,11615,United States of America,1583
+1326,GB,1,11615,United Kingdom,1583
+1327,DE,9,11615,Germany,1583
+1328,US,0,241554,United States of America,1769
+1329,US,0,2252,United States of America,1157
+1330,GB,1,2252,United Kingdom,1157
+1331,CA,11,2252,Canada,1157
+1332,US,0,11968,United States of America,1686
+1333,US,0,38319,United States of America,283
+1334,US,0,69668,United States of America,1805
+1335,CA,11,69668,Canada,1805
+1336,US,0,9770,United States of America,802
+1337,US,0,11212,United States of America,1448
+1338,US,0,10533,United States of America,1196
+1339,US,0,38363,United States of America,2181
+1340,AE,19,38363,United Arab Emirates,2181
+1341,US,0,9923,United States of America,887
+1342,GB,1,9923,United Kingdom,887
+1343,FR,16,9923,France,887
+1344,US,0,11863,United States of America,1663
+1345,US,0,18501,United States of America,1098
+1346,US,0,109491,United States of America,1433
+1347,US,0,329833,United States of America,1119
+1348,US,0,12634,United States of America,1891
+1349,US,0,47327,United States of America,2366
+1350,US,0,15268,United States of America,2556
+1351,CA,11,15268,Canada,2556
+1352,JP,13,15268,Japan,2556
+1353,IN,20,15268,India,2556
+1354,US,0,10796,United States of America,2643
+1355,US,0,9548,United States of America,688
+1356,US,0,1900,United States of America,981
+1357,DE,9,1900,Germany,981
+1358,US,0,89,United States of America,44
+1359,US,0,198184,United States of America,2150
+1360,ZA,30,198184,South Africa,2150
+1361,MX,33,198184,Mexico,2150
+1362,US,0,9481,United States of America,658
+1363,US,0,4547,United States of America,1337
+1364,US,0,6415,United States of America,2383
+1365,US,0,181283,United States of America,543
+1366,GB,1,181283,United Kingdom,543
+1367,CZ,5,181283,Czech Republic,543
+1368,RO,32,181283,Romania,543
+1369,US,0,9896,United States of America,870
+1370,CA,11,9896,Canada,870
+1371,US,0,167,United States of America,91
+1372,GB,1,167,United Kingdom,91
+1373,DE,9,167,Germany,91
+1374,US,0,1636,United States of America,837
+1375,US,0,2148,United States of America,1117
+1376,US,0,5176,United States of America,2083
+1377,US,0,260346,United States of America,2376
+1378,FR,16,260346,France,2376
+1379,US,0,1389,United States of America,708
+1380,US,0,9894,United States of America,868
+1381,US,0,8592,United States of America,1793
+1382,US,0,913,United States of America,501
+1383,US,0,11091,United States of America,1391
+1384,US,0,1368,United States of America,695
+1385,US,0,5393,United States of America,2141
+1386,DE,9,5393,Germany,2141
+1387,US,0,9095,United States of America,499
+1388,US,0,8874,United States of America,1799
+1389,US,0,320,United States of America,176
+1390,US,0,199,United States of America,115
+1391,US,0,20533,United States of America,1814
+1392,US,0,10684,United States of America,1258
+1393,US,0,1624,United States of America,830
+1394,US,0,888,United States of America,493
+1395,US,0,4256,United States of America,1843
+1396,US,0,1493,United States of America,1722
+1397,US,0,88751,United States of America,2484
+1398,US,0,11130,United States of America,1407
+1399,US,0,9944,United States of America,1188
+1400,US,0,10731,United States of America,1279
+1401,US,0,7350,United States of America,2626
+1402,US,0,9869,United States of America,961
+1403,US,0,4379,United States of America,1875
+1404,DE,9,4379,Germany,1875
+1405,US,0,146233,United States of America,2521
+1406,US,0,2034,United States of America,1061
+1407,AU,15,2034,Australia,1061
+1408,US,0,926,United States of America,507
+1409,US,0,4248,United States of America,1840
+1410,CA,11,4248,Canada,1840
+1411,US,0,64328,United States of America,2530
+1412,US,0,36647,United States of America,1720
+1413,US,0,7214,United States of America,2583
+1414,DE,9,7214,Germany,2583
+1415,US,0,1537,United States of America,778
+1416,US,0,9360,United States of America,598
+1417,BR,43,9360,Brazil,598
+1418,PE,44,9360,Peru,598
+1419,US,0,6282,United States of America,2355
+1420,US,0,508,United States of America,268
+1421,GB,1,508,United Kingdom,268
+1422,US,0,9487,United States of America,661
+1423,US,0,2636,United States of America,1313
+1424,PE,44,2636,Peru,1313
+1425,US,0,10478,United States of America,1173
+1426,US,0,9981,United States of America,915
+1427,US,0,7453,United States of America,2653
+1428,US,0,7737,United States of America,2714
+1429,GB,1,7737,United Kingdom,2714
+1430,DE,9,7737,Germany,2714
+1431,AU,15,7737,Australia,2714
+1432,FR,16,7737,France,2714
+1433,US,0,232672,United States of America,1551
+1434,US,0,17379,United States of America,528
+1435,US,0,82525,United States of America,1865
+1436,US,0,9759,United States of America,792
+1437,DE,9,9759,Germany,792
+1438,US,0,9906,United States of America,876
+1439,US,0,841,United States of America,466
+1440,US,0,4148,United States of America,1813
+1441,GB,1,4148,United Kingdom,1813
+1442,US,0,2207,United States of America,1141
+1443,DE,9,2207,Germany,1141
+1444,US,0,20856,United States of America,1898
+1445,CA,11,20856,Canada,1898
+1446,US,0,5955,United States of America,2275
+1447,US,0,9899,United States of America,872
+1448,US,0,9826,United States of America,835
+1449,AU,15,9826,Australia,835
+1450,US,0,10858,United States of America,2728
+1451,US,0,11439,United States of America,1533
+1452,GB,1,11439,United Kingdom,1533
+1453,DE,9,11439,Germany,1533
+1454,US,0,9457,United States of America,2693
+1455,CA,11,9457,Canada,2693
+1456,US,0,12412,United States of America,1828
+1457,IT,12,12412,Italy,1828
+1458,US,0,13184,United States of America,2048
+1459,US,0,2185,United States of America,2025
+1460,US,0,6639,United States of America,2450
+1461,US,0,38153,United States of America,2139
+1462,US,0,68734,United States of America,1519
+1463,US,0,5503,United States of America,2160
+1464,US,0,27573,United States of America,1434
+1465,US,0,819,United States of America,456
+1466,US,0,1369,United States of America,696
+1467,US,0,10935,United States of America,1343
+1468,US,0,834,United States of America,462
+1469,US,0,228066,United States of America,2499
+1470,GB,1,228066,United Kingdom,2499
+1471,US,0,711,United States of America,389
+1472,US,0,10027,United States of America,943
+1473,GB,1,10027,United Kingdom,943
+1474,FR,16,10027,France,943
+1475,US,0,11812,United States of America,1648
+1476,US,0,37233,United States of America,1896
+1477,US,0,37950,United States of America,2410
+1478,US,0,27582,United States of America,1441
+1479,US,0,64688,United States of America,2622
+1480,US,0,509,United States of America,269
+1481,GB,1,509,United Kingdom,269
+1482,US,0,5966,United States of America,2407
+1483,US,0,11066,United States of America,1383
+1484,US,0,136795,United States of America,2213
+1485,US,0,8095,United States of America,2695
+1486,GB,1,8095,United Kingdom,2695
+1487,CH,41,8095,Switzerland,2695
+1488,US,0,11560,United States of America,1701
+1489,US,0,2637,United States of America,2698
+1490,US,0,709,United States of America,387
+1491,GB,1,709,United Kingdom,387
+1492,US,0,49730,United States of America,298
+1493,CA,11,49730,Canada,298
+1494,US,0,2749,United States of America,1344
+1495,DE,9,2749,Germany,1344
+1496,US,0,9607,United States of America,721
+1497,GB,1,9607,United Kingdom,721
+1498,US,0,1830,United States of America,2296
+1499,DE,9,1830,Germany,2296
+1500,FR,16,1830,France,2296
+1501,US,0,54054,United States of America,2014
+1502,US,0,228967,United States of America,2724
+1503,US,0,65,United States of America,26
+1504,US,0,9476,United States of America,657
+1505,US,0,745,United States of America,1897
+1506,US,0,49527,United States of America,202
+1507,US,0,73937,United States of America,121
+1508,US,0,1885,United States of America,1489
+1509,US,0,168672,United States of America,1987
+1510,US,0,18240,United States of America,1410
+1511,US,0,10398,United States of America,1140
+1512,CA,11,10398,Canada,1140
+1513,US,0,165,United States of America,89
+1514,US,0,240832,United States of America,1540
+1515,FR,16,240832,France,1540
+1516,US,0,216015,United States of America,2618
+1517,US,0,12279,United States of America,1795
+1518,US,0,1645,United States of America,856
+1519,US,0,11007,United States of America,1367
+1520,US,0,193756,United States of America,2130
+1521,US,0,11287,United States of America,1482
+1522,US,0,259693,United States of America,2221
+1523,CA,11,259693,Canada,2221
+1524,US,0,37799,United States of America,2056
+1525,US,0,10184,United States of America,1031
+1526,DE,9,10184,Germany,1031
+1527,NL,17,10184,Netherlands,1031
+1528,US,0,4257,United States of America,1844
+1529,US,0,4234,United States of America,1834
+1530,US,0,196,United States of America,113
+1531,US,0,257091,United States of America,1496
+1532,US,0,6114,United States of America,2317
+1533,US,0,24803,United States of America,131
+1534,US,0,1213,United States of America,621
+1535,US,0,100042,United States of America,891
+1536,US,0,9036,United States of America,467
+1537,US,0,257211,United States of America,1505
+1538,US,0,323675,United States of America,1957
+1539,US,0,9361,United States of America,2541
+1540,US,0,1677,United States of America,854
+1541,US,0,187,United States of America,108
+1542,US,0,7461,United States of America,2658
+1543,US,0,16538,United States of America,82
+1544,US,0,9889,United States of America,864
+1545,US,0,820,United States of America,457
+1546,US,0,11565,United States of America,1710
+1547,US,0,6073,United States of America,2309
+1548,MX,33,6073,Mexico,2309
+1549,US,0,16996,United States of America,1664
+1550,US,0,193610,United States of America,2090
+1551,US,0,296098,United States of America,607
+1552,DE,9,296098,Germany,607
+1553,IN,20,296098,India,607
+1554,US,0,8007,United States of America,2766
+1555,US,0,32823,United States of America,182
+1556,US,0,4380,United States of America,1876
+1557,US,0,11551,United States of America,1568
+1558,US,0,10336,United States of America,1116
+1559,US,0,11362,United States of America,1504
+1560,US,0,50348,United States of America,2575
+1561,US,0,1124,United States of America,575
+1562,US,0,227159,United States of America,2283
+1563,US,0,68179,United States of America,1317
+1564,CA,11,68179,Canada,1317
+1565,US,0,708,United States of America,386
+1566,GB,1,708,United Kingdom,386
+1567,US,0,34851,United States of America,1083
+1568,US,0,1586,United States of America,807
+1569,US,0,2044,United States of America,1066
+1570,US,0,9913,United States of America,879
+1571,DE,9,9913,Germany,879
+1572,US,0,10761,United States of America,1287
+1573,GB,1,10761,United Kingdom,1287
+1574,US,0,209451,United States of America,1955
+1575,US,0,11975,United States of America,1690
+1576,US,0,4970,United States of America,2101
+1577,US,0,11831,United States of America,1653
+1578,US,0,440,United States of America,238
+1579,US,0,11172,United States of America,1429
+1580,US,0,39513,United States of America,2471
+1581,GB,1,39513,United Kingdom,2471
+1582,US,0,82687,United States of America,532
+1583,US,0,41446,United States of America,256
+1584,US,0,8224,United States of America,16
+1585,US,0,10537,United States of America,2257
+1586,US,0,225886,United States of America,1967
+1587,US,0,10385,United States of America,2043
+1588,DE,9,10385,Germany,2043
+1589,US,0,55779,United States of America,2448
+1590,US,0,10647,United States of America,1243
+1591,US,0,11431,United States of America,1532
+1592,DE,9,11431,Germany,1532
+1593,US,0,8850,United States of America,353
+1594,US,0,64685,United States of America,2620
+1595,US,0,38357,United States of America,2180
+1596,US,0,10060,United States of America,958
+1597,US,0,11398,United States of America,1525
+1598,CA,11,11398,Canada,1525
+1599,US,0,1833,United States of America,2264
+1600,US,0,8970,United States of America,427
+1601,US,0,9306,United States of America,570
+1602,US,0,11370,United States of America,1507
+1603,GB,1,11370,United Kingdom,1507
+1604,DE,9,11370,Germany,1507
+1605,LU,45,11370,Luxembourg,1507
+1606,US,0,1921,United States of America,991
+1607,US,0,1683,United States of America,857
+1608,US,0,203,United States of America,118
+1609,US,0,11858,United States of America,1712
+1610,CA,11,11858,Canada,1712
+1611,US,0,18937,United States of America,1282
+1612,US,0,13536,United States of America,2131
+1613,US,0,10718,United States of America,1275
+1614,AU,15,10718,Australia,1275
+1615,US,0,10802,United States of America,2022
+1616,FR,16,10802,France,2022
+1617,US,0,1887,United States of America,972
+1618,JP,13,1887,Japan,972
+1619,FR,16,1887,France,972
+1620,US,0,10461,United States of America,1165
+1621,US,0,80278,United States of America,2423
+1622,ES,18,80278,Spain,2423
+1623,US,0,12704,United States of America,1260
+1624,US,0,10315,United States of America,1104
+1625,US,0,16643,United States of America,787
+1626,CA,11,16643,Canada,787
+1627,US,0,2687,United States of America,2747
+1628,FR,16,2687,France,2747
+1629,US,0,8849,United States of America,352
+1630,GB,1,8849,United Kingdom,352
+1631,US,0,78698,United States of America,2044
+1632,GB,1,78698,United Kingdom,2044
+1633,US,0,30943,United States of America,2149
+1634,US,0,9544,United States of America,687
+1635,GB,1,9544,United Kingdom,687
+1636,DE,9,9544,Germany,687
+1637,LU,45,9544,Luxembourg,687
+1638,US,0,24418,United States of America,2777
+1639,US,0,7288,United States of America,2601
+1640,DE,9,7288,Germany,2601
+1641,US,0,10366,United States of America,1127
+1642,US,0,15074,United States of America,183
+1643,US,0,1272,United States of America,652
+1644,GB,1,1272,United Kingdom,652
+1645,US,0,72358,United States of America,2483
+1646,US,0,266396,United States of America,1842
+1647,GB,1,266396,United Kingdom,1842
+1648,FR,16,266396,France,1842
+1649,ES,18,266396,Spain,1842
+1650,US,0,9978,United States of America,913
+1651,GB,1,9978,United Kingdom,913
+1652,DE,9,9978,Germany,913
+1653,US,0,8271,United States of America,38
+1654,US,0,10428,United States of America,1150
+1655,US,0,110415,United States of America,1737
+1656,CZ,5,110415,Czech Republic,1737
+1657,FR,16,110415,France,1737
+1658,KR,42,110415,South Korea,1737
+1659,US,0,9495,United States of America,2729
+1660,US,0,24420,United States of America,2778
+1661,US,0,62214,United States of America,2005
+1662,US,0,16320,United States of America,2815
+1663,US,0,8842,United States of America,1730
+1664,DE,9,8842,Germany,1730
+1665,US,0,64807,United States of America,1700
+1666,US,0,11529,United States of America,1561
+1667,US,0,20943,United States of America,1925
+1668,US,0,9488,United States of America,662
+1669,US,0,193,United States of America,590
+1670,US,0,55787,United States of America,2449
+1671,US,0,10400,United States of America,1142
+1672,US,0,1957,United States of America,1014
+1673,US,0,256961,United States of America,853
+1674,US,0,5852,United States of America,2249
+1675,US,0,11306,United States of America,1486
+1676,US,0,12508,United States of America,1857
+1677,US,0,25793,United States of America,623
+1678,US,0,10534,United States of America,1197
+1679,US,0,1091,United States of America,559
+1680,US,0,87421,United States of America,2159
+1681,US,0,10871,United States of America,1328
+1682,US,0,13600,United States of America,2144
+1683,US,0,68722,United States of America,1512
+1684,US,0,14325,United States of America,2323
+1685,DE,9,14325,Germany,2323
+1686,US,0,299687,United States of America,1978
+1687,US,0,312221,United States of America,1975
+1688,US,0,23168,United States of America,2477
+1689,US,0,76494,United States of America,1353
+1690,US,0,4944,United States of America,2033
+1691,GB,1,4944,United Kingdom,2033
+1692,FR,16,4944,France,2033
+1693,US,0,10488,United States of America,1181
+1694,US,0,334,United States of America,184
+1695,US,0,23742,United States of America,2627
+1696,US,0,259694,United States of America,2222
+1697,US,0,62837,United States of America,2157
+1698,US,0,8966,United States of America,2562
+1699,US,0,8470,United States of America,225
+1700,US,0,11001,United States of America,1365
+1701,DE,9,11001,Germany,1365
+1702,US,0,138832,United States of America,2720
+1703,US,0,2163,United States of America,1123
+1704,US,0,36670,United States of America,2545
+1705,GB,1,36670,United Kingdom,2545
+1706,DE,9,36670,Germany,2545
+1707,US,0,23048,United States of America,2457
+1708,US,0,227735,United States of America,2424
+1709,US,0,2155,United States of America,1120
+1710,US,0,8409,United States of America,666
+1711,DE,9,8409,Germany,666
+1712,US,0,222936,United States of America,897
+1713,US,0,48171,United States of America,2582
+1714,IT,12,48171,Italy,2582
+1715,HU,26,48171,Hungary,2582
+1716,US,0,782,United States of America,1962
+1717,US,0,75531,United States of America,923
+1718,US,0,11802,United States of America,2105
+1719,US,0,18785,United States of America,1222
+1720,DE,9,18785,Germany,1222
+1721,US,0,817,United States of America,454
+1722,US,0,268,United States of America,154
+1723,GB,1,268,United Kingdom,154
+1724,US,0,943,United States of America,511
+1725,US,0,22881,United States of America,2406
+1726,US,0,10054,United States of America,956
+1727,US,0,51540,United States of America,1215
+1728,US,0,44264,United States of America,1556
+1729,US,0,350,United States of America,190
+1730,US,0,152,United States of America,80
+1731,US,0,109431,United States of America,1405
+1732,US,0,1598,United States of America,814
+1733,US,0,8065,United States of America,2795
+1734,US,0,271718,United States of America,705
+1735,US,0,11638,United States of America,1594
+1736,US,0,409,United States of America,221
+1737,GB,1,409,United Kingdom,221
+1738,US,0,2118,United States of America,1099
+1739,US,0,11459,United States of America,1541
+1740,US,0,9348,United States of America,588
+1741,US,0,377,United States of America,1162
+1742,US,0,8843,United States of America,348
+1743,DE,9,8843,Germany,348
+1744,US,0,39486,United States of America,2468
+1745,US,0,1273,United States of America,653
+1746,US,0,13920,United States of America,2215
+1747,US,0,50544,United States of America,711
+1748,US,0,325133,United States of America,2194
+1749,US,0,140823,United States of America,789
+1750,GB,1,140823,United Kingdom,789
+1751,AU,15,140823,Australia,789
+1752,US,0,1883,United States of America,969
+1753,US,0,89492,United States of America,2690
+1754,US,0,22949,United States of America,2429
+1755,US,0,12437,United States of America,1839
+1756,US,0,2959,United States of America,1416
+1757,AU,15,2959,Australia,1416
+1758,US,0,11648,United States of America,1597
+1759,US,0,9366,United States of America,601
+1760,US,0,1576,United States of America,800
+1761,GB,1,1576,United Kingdom,800
+1762,DE,9,1576,Germany,800
+1763,FR,16,1576,France,800
+1764,US,0,13051,United States of America,1997
+1765,CA,11,13051,Canada,1997
+1766,US,0,49530,United States of America,204
+1767,US,0,34806,United States of America,1063
+1768,US,0,49022,United States of America,2794
+1769,US,0,23479,United States of America,2558
+1770,US,0,11667,United States of America,1600
+1771,JP,13,11667,Japan,1600
+1772,US,0,2288,United States of America,2165
+1773,US,0,88794,United States of America,2495
+1774,US,0,13515,United States of America,2124
+1775,RO,32,13515,Romania,2124
+1776,US,0,11979,United States of America,1693
+1777,AU,15,11979,Australia,1693
+1778,US,0,169,United States of America,93
+1779,US,0,8090,United States of America,2805
+1780,US,0,11622,United States of America,1587
+1781,US,0,3604,United States of America,1643
+1782,US,0,9541,United States of America,684
+1783,US,0,94348,United States of America,1835
+1784,US,0,8197,United States of America,1
+1785,US,0,336004,United States of America,68
+1786,US,0,35019,United States of America,2122
+1787,GB,1,35019,United Kingdom,2122
+1788,FR,16,35019,France,2122
+1789,US,0,8836,United States of America,1713
+1790,CA,11,8836,Canada,1713
+1791,US,0,321741,United States of America,2125
+1792,GB,1,321741,United Kingdom,2125
+1793,AU,15,321741,Australia,2125
+1794,US,0,59965,United States of America,1306
+1795,US,0,11918,United States of America,1679
+1796,US,0,98357,United States of America,21
+1797,US,0,10012,United States of America,933
+1798,DE,9,10012,Germany,933
+1799,US,0,49526,United States of America,201
+1800,US,0,268920,United States of America,2476
+1801,US,0,9093,United States of America,498
+1802,GB,1,9093,United Kingdom,498
+1803,US,0,119283,United States of America,1937
+1804,US,0,35169,United States of America,2341
+1805,AE,19,35169,United Arab Emirates,2341
+1806,US,0,849,United States of America,469
+1807,GB,1,849,United Kingdom,469
+1808,IT,12,849,Italy,469
+1809,ES,18,849,Spain,469
+1810,US,0,4515,United States of America,1910
+1811,US,0,6575,United States of America,2435
+1812,US,0,13496,United States of America,2591
+1813,US,0,18320,United States of America,999
+1814,GB,1,18320,United Kingdom,999
+1815,US,0,22787,United States of America,2379
+1816,CA,11,22787,Canada,2379
+1817,FR,16,22787,France,2379
+1818,US,0,8967,United States of America,2570
+1819,US,0,144336,United States of America,2063
+1820,US,0,9616,United States of America,726
+1821,DE,9,9616,Germany,726
+1822,US,0,13056,United States of America,2001
+1823,DE,9,13056,Germany,2001
+1824,CA,11,13056,Canada,2001
+1825,US,0,14113,United States of America,2270
+1826,US,0,285783,United States of America,2592
+1827,US,0,9726,United States of America,776
+1828,US,0,20763,United States of America,866
+1829,US,0,22267,United States of America,2259
+1830,US,0,1969,United States of America,1021
+1831,FR,16,1969,France,1021
+1832,MX,33,1969,Mexico,1021
+1833,US,0,198663,United States of America,1809
+1834,US,0,239573,United States of America,1042
+1835,US,0,10436,United States of America,1153
+1836,US,0,1381,United States of America,704
+1837,US,0,2162,United States of America,1122
+1838,US,0,127493,United States of America,1943
+1839,US,0,2900,United States of America,1392
+1840,US,0,18254,United States of America,960
+1841,US,0,881,United States of America,492
+1842,US,0,10877,United States of America,1331
+1843,CA,11,10877,Canada,1331
+1844,US,0,9600,United States of America,2750
+1845,DE,9,9600,Germany,2750
+1846,US,0,71469,United States of America,2273
+1847,RU,31,71469,Russia,2273
+1848,US,0,326,United States of America,179
+1849,US,0,7220,United States of America,2586
+1850,DE,9,7220,Germany,2586
+1851,US,0,72387,United States of America,2489
+1852,US,0,1892,United States of America,974
+1853,US,0,13460,United States of America,2104
+1854,GB,1,13460,United Kingdom,2104
+1855,DE,9,13460,Germany,2104
+1856,ZA,30,13460,South Africa,2104
+1857,US,0,8055,United States of America,2789
+1858,DE,9,8055,Germany,2789
+1859,US,0,50647,United States of America,428
+1860,US,0,10719,United States of America,1276
+1861,DE,9,10719,Germany,1276
+1862,US,0,9294,United States of America,2445
+1863,US,0,9353,United States of America,592
+1864,US,0,55721,United States of America,2452
+1865,US,0,109414,United States of America,1398
+1866,US,0,10307,United States of America,1096
+1867,US,0,11978,United States of America,1692
+1868,US,0,22907,United States of America,2413
+1869,US,0,87567,United States of America,2195
+1870,US,0,38322,United States of America,2172
+1871,US,0,45612,United States of America,1956
+1872,CA,11,45612,Canada,1956
+1873,US,0,7305,United States of America,2609
+1874,US,0,3594,United States of America,1638
+1875,DE,9,3594,Germany,1638
+1876,US,0,11519,United States of America,1559
+1877,US,0,59,United States of America,25
+1878,DE,9,59,Germany,25
+1879,CA,11,59,Canada,25
+1880,US,0,9335,United States of America,582
+1881,FR,16,9335,France,582
+1882,US,0,12106,United States of America,1734
+1883,JP,13,12106,Japan,1734
+1884,US,0,31867,United States of America,2602
+1885,CA,11,31867,Canada,2602
+1886,US,0,124459,United States of America,803
+1887,US,0,182,United States of America,560
+1888,US,0,28,United States of America,13
+1889,US,0,38073,United States of America,1964
+1890,US,0,302156,United States of America,2588
+1891,GB,1,302156,United Kingdom,2588
+1892,US,0,606,United States of America,317
+1893,US,0,87502,United States of America,2178
+1894,US,0,698,United States of America,380
+1895,GB,1,698,United Kingdom,380
+1896,FR,16,698,France,380
+1897,US,0,120467,United States of America,2236
+1898,GB,1,120467,United Kingdom,2236
+1899,DE,9,120467,Germany,2236
+1900,US,0,11313,United States of America,1490
+1901,AU,15,11313,Australia,1490
+1902,US,0,6488,United States of America,2405
+1903,US,0,10559,United States of America,1205
+1904,US,0,296099,United States of America,608
+1905,US,0,8012,United States of America,2769
+1906,US,0,1574,United States of America,798
+1907,US,0,9032,United States of America,465
+1908,US,0,2770,United States of America,1354
+1909,US,0,862,United States of America,673
+1910,US,0,1637,United States of America,838
+1911,US,0,72570,United States of America,2548
+1912,US,0,27569,United States of America,1431
+1913,US,0,10637,United States of America,1239
+1914,US,0,1669,United States of America,936
+1915,US,0,132363,United States of America,659
+1916,US,0,9472,United States of America,656
+1917,DE,9,9472,Germany,656
+1918,US,0,2907,United States of America,1395
+1919,US,0,9273,United States of America,552
+1920,US,0,9880,United States of America,1000
+1921,US,0,2925,United States of America,1402
+1922,US,0,807,United States of America,446
+1923,US,0,11836,United States of America,1657
+1924,US,0,322,United States of America,177
+1925,US,0,70,United States of America,30
+1926,US,0,9535,United States of America,683
+1927,AU,15,9535,Australia,683
+1928,US,0,11036,United States of America,1375
+1929,US,0,6557,United States of America,2426
+1930,US,0,18126,United States of America,893
+1931,US,0,16340,United States of America,2821
+1932,DE,9,16340,Germany,2821
+1933,US,0,10333,United States of America,1114
+1934,US,0,4476,United States of America,1900
+1935,US,0,22947,United States of America,2428
+1936,US,0,2755,United States of America,1346
+1937,US,0,59967,United States of America,1308
+1938,CN,10,59967,China,1308
+1939,US,0,9598,United States of America,717
+1940,AU,15,9598,Australia,717
+1941,US,0,82696,United States of America,426
+1942,US,0,9870,United States of America,855
+1943,US,0,8292,United States of America,312
+1944,US,0,8780,United States of America,305
+1945,US,0,10521,United States of America,1189
+1946,US,0,10762,United States of America,1288
+1947,US,0,10096,United States of America,983
+1948,US,0,59436,United States of America,1086
+1949,ES,18,59436,Spain,1086
+1950,US,0,4133,United States of America,1806
+1951,US,0,10207,United States of America,1050
+1952,US,0,172,United States of America,96
+1953,US,0,36593,United States of America,2430
+1954,US,0,707,United States of America,385
+1955,GB,1,707,United Kingdom,385
+1956,FR,16,707,France,385
+1957,IS,36,707,Iceland,385
+1958,US,0,533,United States of America,281
+1959,GB,1,533,United Kingdom,281
+1960,US,0,6023,United States of America,2297
+1961,US,0,6439,United States of America,2391
+1962,ZA,30,6439,South Africa,2391
+1963,US,0,4347,United States of America,2707
+1964,GB,1,4347,United Kingdom,2707
+1965,FR,16,4347,France,2707
+1966,US,0,4105,United States of America,1801
+1967,US,0,76489,United States of America,1350
+1968,US,0,3933,United States of America,1743
+1969,US,0,273481,United States of America,1498
+1970,US,0,307081,United States of America,1764
+1971,US,0,16871,United States of America,257
+1972,US,0,293863,United States of America,2569
+1973,US,0,9266,United States of America,549
+1974,DE,9,9266,Germany,549
+1975,US,0,1262,United States of America,646
+1976,US,0,4513,United States of America,1909
+1977,NZ,8,4513,New Zealand,1909
+1978,US,0,22970,United States of America,2437
+1979,US,0,7278,United States of America,2600
+1980,US,0,9013,United States of America,458
+1981,US,0,865,United States of America,481
+1982,US,0,10776,United States of America,2610
+1983,US,0,50456,United States of America,667
+1984,GB,1,50456,United Kingdom,667
+1985,DE,9,50456,Germany,667
+1986,US,0,9823,United States of America,832
+1987,US,0,59861,United States of America,1271
+1988,US,0,133805,United States of America,1342
+1989,US,0,12763,United States of America,1929
+1990,US,0,9766,United States of America,2434
+1991,US,0,12244,United States of America,1787
+1992,US,0,109421,United States of America,597
+1993,US,0,51162,United States of America,1715
+1994,US,0,10152,United States of America,1015
+1995,US,0,9452,United States of America,645
+1996,US,0,9271,United States of America,551
+1997,US,0,14846,United States of America,2571
+1998,US,0,72207,United States of America,2460
+1999,US,0,16232,United States of America,2781
+2000,US,0,43539,United States of America,1292
+2001,FR,16,43539,France,1292
+2002,US,0,9920,United States of America,884
+2003,US,0,8978,United States of America,433
+2004,FR,16,8978,France,433
+2005,US,0,11702,United States of America,1614
+2006,US,0,18550,United States of America,1124
+2007,US,0,43347,United States of America,1214
+2008,US,0,3489,United States of America,1605
+2009,US,0,9701,United States of America,770
+2010,US,0,2122,United States of America,1919
+2011,US,0,10658,United States of America,1246
+2012,US,0,13150,United States of America,2037
+2013,DE,9,13150,Germany,2037
+2014,US,0,9042,United States of America,470
+2015,DE,9,9042,Germany,470
+2016,US,0,17813,United States of America,1249
+2017,US,0,11208,United States of America,1446
+2018,US,0,58151,United States of America,1993
+2019,GB,1,58151,United Kingdom,1993
+2020,US,0,11400,United States of America,1526
+2021,US,0,11058,United States of America,1380
+2022,CA,11,11058,Canada,1380
+2023,US,0,57089,United States of America,2748
+2024,US,0,1947,United States of America,1606
+2025,DE,9,1947,Germany,1606
+2026,US,0,146238,United States of America,2524
+2027,US,0,9989,United States of America,921
+2028,CA,11,9989,Canada,921
+2029,US,0,9665,United States of America,751
+2030,US,0,13967,United States of America,2234
+2031,GB,1,13967,United Kingdom,2234
+2032,US,0,4512,United States of America,1908
+2033,GB,1,4512,United Kingdom,1908
+2034,CA,11,4512,Canada,1908
+2035,US,0,45610,United States of America,1954
+2036,US,0,223702,United States of America,1272
+2037,CA,11,223702,Canada,1272
+2038,US,0,254470,United States of America,273
+2039,US,0,69,United States of America,29
+2040,DE,9,69,Germany,29
+2041,US,0,4967,United States of America,1003
+2042,US,0,4912,United States of America,2019
+2043,US,0,12771,United States of America,1932
+2044,DE,9,12771,Germany,1932
+2045,US,0,323676,United States of America,1820
+2046,US,0,11249,United States of America,1465
+2047,RO,32,11249,Romania,1465
+2048,US,0,9667,United States of America,752
+2049,DE,9,9667,Germany,752
+2050,US,0,812,United States of America,450
+2051,US,0,277216,United States of America,2498
+2052,US,0,87,United States of America,42
+2053,US,0,14444,United States of America,2351
+2054,US,0,2043,United States of America,1065
+2055,DE,9,2043,Germany,1065
+2056,CA,11,2043,Canada,1065
+2057,US,0,315664,United States of America,1872
+2058,GB,1,315664,United Kingdom,1872
+2059,US,0,1428,United States of America,996
+2060,US,0,562,United States of America,294
+2061,US,0,15373,United States of America,2577
+2062,US,0,318846,United States of America,2683
+2063,US,0,14292,United States of America,2316
+2064,US,0,924,United States of America,505
+2065,US,0,2018,United States of America,1052
+2066,US,0,9428,United States of America,631
+2067,US,0,2832,United States of America,1371
+2068,US,0,137093,United States of America,2295
+2069,US,0,699,United States of America,381
+2070,GB,1,699,United Kingdom,381
+2071,US,0,9778,United States of America,677
+2072,US,0,8831,United States of America,1705
+2073,JP,13,8831,Japan,1705
+2074,US,0,9398,United States of America,618
+2075,DE,9,9398,Germany,618
+2076,US,0,10439,United States of America,1155
+2077,US,0,3638,United States of America,1652
+2078,AU,15,3638,Australia,1652
+2079,US,0,23483,United States of America,2559
+2080,GB,1,23483,United Kingdom,2559
+2081,US,0,62206,United States of America,2000
+2082,DE,9,62206,Germany,2000
+2083,CA,11,62206,Canada,2000
+2084,US,0,10577,United States of America,1213
+2085,US,0,218778,United States of America,2239
+2086,US,0,4348,United States of America,1863
+2087,GB,1,4348,United Kingdom,1863
+2088,FR,16,4348,France,1863
+2089,US,0,78,United States of America,37
+2090,GB,1,78,United Kingdom,37
+2091,HK,21,78,Hong Kong,37
+2092,US,0,11780,United States of America,1637
+2093,GB,1,11780,United Kingdom,1637
+2094,US,0,192102,United States of America,1671
+2095,FR,16,192102,France,1671
+2096,US,0,2001,United States of America,1698
+2097,US,0,10025,United States of America,942
+2098,US,0,15198,United States of America,2536
+2099,CA,11,15198,Canada,2536
+2100,US,0,23172,United States of America,2478
+2101,US,0,17834,United States of America,740
+2102,US,0,10016,United States of America,1345
+2103,US,0,10317,United States of America,1106
+2104,US,0,58431,United States of America,555
+2105,US,0,59859,United States of America,2501
+2106,GB,1,59859,United Kingdom,2501
+2107,US,0,700,United States of America,1823
+2108,GB,1,700,United Kingdom,1823
+2109,US,0,4964,United States of America,2041
+2110,US,0,10024,United States of America,941
+2111,US,0,13490,United States of America,2115
+2112,US,0,5125,United States of America,2072
+2113,US,0,174,United States of America,537
+2114,US,0,9437,United States of America,2663
+2115,US,0,525,United States of America,279
+2116,US,0,245,United States of America,141
+2117,GB,1,245,United Kingdom,141
+2118,US,0,9825,United States of America,1702
+2119,US,0,186,United States of America,107
+2120,DE,9,186,Germany,107
+2121,US,0,9549,United States of America,689
+2122,US,0,34584,United States of America,930
+2123,DE,9,34584,Germany,930
+2124,US,0,2666,United States of America,1322
+2125,AU,15,2666,Australia,1322
+2126,US,0,13155,United States of America,2040
+2127,GB,1,13155,United Kingdom,2040
+2128,US,0,42807,United States of America,1388
+2129,US,0,28355,United States of America,2358
+2130,CA,11,28355,Canada,2358
+2131,US,0,8080,United States of America,2800
+2132,GB,1,8080,United Kingdom,2800
+2133,DE,9,8080,Germany,2800
+2134,US,0,56288,United States of America,2564
+2135,US,0,303858,United States of America,410
+2136,US,0,16617,United States of America,134
+2137,GB,1,16617,United Kingdom,134
+2138,NL,17,16617,Netherlands,134
+2139,FI,35,16617,Finland,134
+2140,US,0,8944,United States of America,2715
+2141,US,0,14560,United States of America,2367
+2142,US,0,10330,United States of America,1111
+2143,US,0,6957,United States of America,2516
+2144,US,0,1934,United States of America,998
+2145,US,0,169917,United States of America,2310
+2146,US,0,951,United States of America,515
+2147,US,0,10189,United States of America,1036
+2148,US,0,9454,United States of America,2691
+2149,US,0,2055,United States of America,1072
+2150,US,0,1551,United States of America,785
+2151,US,0,5902,United States of America,2265
+2152,GB,1,5902,United Kingdom,2265
+2153,US,0,11460,United States of America,1542
+2154,US,0,9358,United States of America,596
+2155,US,0,134,United States of America,70
+2156,GB,1,134,United Kingdom,70
+2157,FR,16,134,France,70
+2158,US,0,22894,United States of America,2408
+2159,US,0,134374,United States of America,1554
+2160,US,0,15028,United States of America,2485
+2161,US,0,7445,United States of America,2647
+2162,US,0,17047,United States of America,1765
+2163,US,0,62838,United States of America,2158
+2164,US,0,2057,United States of America,1074
+2165,FR,16,2057,France,1074
+2166,US,0,70436,United States of America,2013
+2167,ES,18,70436,Spain,2013
+2168,HU,26,70436,Hungary,2013
+2169,RS,47,70436,Serbia,2013
+2170,US,0,16784,United States of America,1860
+2171,DE,9,16784,Germany,1860
+2172,US,0,36355,United States of America,1636
+2173,US,0,238615,United States of America,2356
+2174,US,0,1985,United States of America,1027
+2175,GB,1,1985,United Kingdom,1027
+2176,DE,9,1985,Germany,1027
+2177,CN,10,1985,China,1027
+2178,US,0,615,United States of America,324
+2179,US,0,788,United States of America,435
+2180,US,0,380,United States of America,205
+2181,US,0,13223,United States of America,2184
+2182,DE,9,13223,Germany,2184
+2183,US,0,10523,United States of America,1190
+2184,US,0,8681,United States of America,2474
+2185,GB,1,8681,United Kingdom,2474
+2186,FR,16,8681,France,2474
+2187,US,0,239571,United States of America,1703
+2188,US,0,619,United States of America,328
+2189,US,0,424,United States of America,229
+2190,US,0,50014,United States of America,478
+2191,AE,19,50014,United Arab Emirates,478
+2192,IN,20,50014,India,478
+2193,US,0,162903,United States of America,1289
+2194,BE,23,162903,Belgium,1289
+2195,US,0,6466,United States of America,2401
+2196,CA,11,6466,Canada,2401
+2197,IT,12,6466,Italy,2401
+2198,US,0,12589,United States of America,1881
+2199,US,0,7191,United States of America,2580
+2200,US,0,1497,United States of America,764
+2201,HK,21,1497,Hong Kong,764
+2202,US,0,117,United States of America,62
+2203,US,0,6977,United States of America,2526
+2204,US,0,168530,United States of America,1961
+2205,US,0,634,United States of America,336
+2206,GB,1,634,United Kingdom,336
+2207,FR,16,634,France,336
+2208,IE,24,634,Ireland,336
+2209,US,0,392,United States of America,212
+2210,GB,1,392,United Kingdom,212
+2211,US,0,10327,United States of America,1947
+2212,US,0,88042,United States of America,2337
+2213,US,0,41630,United States of America,360
+2214,US,0,11969,United States of America,1687
+2215,US,0,2085,United States of America,1084
+2216,US,0,794,United States of America,438
+2217,GB,1,794,United Kingdom,438
+2218,US,0,9286,United States of America,561
+2219,DE,9,9286,Germany,561
+2220,CA,11,9286,Canada,561
+2221,US,0,77877,United States of America,1780
+2222,US,0,1265,United States of America,648
+2223,US,0,866,United States of America,482
+2224,GB,1,866,United Kingdom,482
+2225,US,0,75174,United States of America,738
+2226,CA,11,75174,Canada,738
+2227,US,0,11096,United States of America,1394
+2228,US,0,8699,United States of America,267
+2229,US,0,769,United States of America,419
+2230,US,0,10923,United States of America,1341
+2231,CA,11,10923,Canada,1341
+2232,US,0,11283,United States of America,1479
+2233,GB,1,11283,United Kingdom,1479
+2234,FR,16,11283,France,1479
+2235,US,0,111,United States of America,58
+2236,US,0,77866,United States of America,1808
+2237,GB,1,77866,United Kingdom,1808
+2238,FR,16,77866,France,1808
+2239,US,0,7345,United States of America,2623
+2240,US,0,12277,United States of America,1794
+2241,US,0,2140,United States of America,1113
+2242,FR,16,2140,France,1113
+2243,US,0,12620,United States of America,1888
+2244,US,0,14177,United States of America,2286
+2245,US,0,198185,United States of America,1868
+2246,US,0,227156,United States of America,2282
+2247,US,0,11351,United States of America,1501
+2248,US,0,10030,United States of America,946
+2249,CA,11,10030,Canada,946
+2250,US,0,10623,United States of America,1230
+2251,US,0,590,United States of America,1627
+2252,US,0,9655,United States of America,746
+2253,US,0,11237,United States of America,1459
+2254,US,0,190955,United States of America,2551
+2255,FR,16,190955,France,2551
+2256,US,0,5123,United States of America,2071
+2257,US,0,4518,United States of America,1278
+2258,US,0,11932,United States of America,1681
+2259,CA,11,11932,Canada,1681
+2260,US,0,57431,United States of America,277
+2261,US,0,278,United States of America,160
+2262,US,0,9290,United States of America,563
+2263,AU,15,9290,Australia,563
+2264,US,0,11543,United States of America,1564
+2265,US,0,284536,United States of America,2291
+2266,US,0,152737,United States of America,2561
+2267,US,0,13374,United States of America,2088
+2268,CA,11,13374,Canada,2088
+2269,US,0,8976,United States of America,2640
+2270,US,0,319888,United States of America,2187
+2271,GB,1,319888,United Kingdom,2187
+2272,DE,9,319888,Germany,2187
+2273,US,0,9469,United States of America,654
+2274,US,0,1909,United States of America,985
+2275,US,0,22971,United States of America,2438
+2276,US,0,34813,United States of America,1067
+2277,US,0,46261,United States of America,2116
+2278,AU,15,46261,Australia,2116
+2279,MX,33,46261,Mexico,2116
+2280,US,0,10431,United States of America,1152
+2281,CA,11,10431,Canada,1152
+2282,US,0,8051,United States of America,2786
+2283,US,0,9352,United States of America,591
+2284,US,0,15487,United States of America,1366
+2285,US,0,22825,United States of America,2393
+2286,US,0,1831,United States of America,940
+2287,US,0,43931,United States of America,1422
+2288,US,0,10591,United States of America,1220
+2289,US,0,10861,United States of America,2730
+2290,US,0,276907,United States of America,2455
+2291,GB,1,276907,United Kingdom,2455
+2292,FR,16,276907,France,2455
+2293,US,0,65055,United States of America,2121
+2294,US,0,10397,United States of America,1139
+2295,IE,24,10397,Ireland,1139
+2296,US,0,200505,United States of America,1727
+2297,US,0,60309,United States of America,1421
+2298,US,0,9787,United States of America,812
+2299,DE,9,9787,Germany,812
+2300,US,0,293646,United States of America,2508
+2301,CL,48,293646,Chile,2508
+2302,US,0,6978,United States of America,2527
+2303,US,0,59440,United States of America,1087
+2304,US,0,8988,United States of America,440
+2305,US,0,15992,United States of America,2727
+2306,AU,15,15992,Australia,2727
+2307,US,0,17707,United States of America,2749
+2308,US,0,40001,United States of America,2587
+2309,US,0,64639,United States of America,2604
+2310,US,0,9903,United States of America,875
+2311,US,0,20766,United States of America,1878
+2312,US,0,9067,United States of America,488
+2313,US,0,168705,United States of America,2002
+2314,US,0,22256,United States of America,2254
+2315,US,0,12404,United States of America,1827
+2316,US,0,11699,United States of America,1612
+2317,US,0,36696,United States of America,1740
+2318,RU,31,36696,Russia,1740
+2319,US,0,109091,United States of America,1297
+2320,GB,1,109091,United Kingdom,1297
+2321,US,0,859,United States of America,475
+2322,GB,1,859,United Kingdom,475
+2323,US,0,83770,United States of America,949
+2324,GB,1,83770,United Kingdom,949
+2325,FR,16,83770,France,949
+2326,BR,43,83770,Brazil,949
+2327,US,0,168,United States of America,92
+2328,US,0,1246,United States of America,635
+2329,US,0,4233,United States of America,1833
+2330,US,0,174751,United States of America,2814
+2331,US,0,184098,United States of America,1717
+2332,US,0,2069,United States of America,1079
+2333,CA,11,2069,Canada,1079
+2334,US,0,1788,United States of America,914
+2335,US,0,11635,United States of America,1592
+2336,US,0,177,United States of America,100
+2337,US,0,3600,United States of America,1641
+2338,US,0,2621,United States of America,2682
+2339,US,0,10358,United States of America,1981
+2340,US,0,10313,United States of America,1102
+2341,GB,1,10313,United Kingdom,1102
+2342,US,0,13476,United States of America,2110
+2343,US,0,10208,United States of America,1051
+2344,US,0,20697,United States of America,1856
+2345,US,0,20761,United States of America,1874
+2346,US,0,70868,United States of America,2128
+2347,US,0,43593,United States of America,1312
+2348,US,0,41283,United States of America,178
+2349,US,0,19908,United States of America,1623
+2350,US,0,10663,United States of America,1248
+2351,US,0,1891,United States of America,973
+2352,US,0,9737,United States of America,781
+2353,US,0,37137,United States of America,1873
+2354,US,0,9532,United States of America,681
+2355,US,0,10316,United States of America,1923
+2356,US,0,2787,United States of America,1356
+2357,US,0,152601,United States of America,2076
+2358,CN,10,152601,China,2076
+2359,US,0,10866,United States of America,1325
+2360,US,0,21349,United States of America,2042
+2361,US,0,70435,United States of America,2012
+2362,IE,24,70435,Ireland,2012
+2363,US,0,580,United States of America,299
+2364,US,0,20024,United States of America,1654
+2365,GB,1,20024,United Kingdom,1654
+2366,US,0,2453,United States of America,1241
+2367,US,0,6973,United States of America,2523
+2368,US,0,11632,United States of America,1591
+2369,GB,1,11632,United Kingdom,1591
+2370,US,0,3021,United States of America,1449
+2371,US,0,957,United States of America,521
+2372,US,0,256917,United States of America,718
+2373,AU,15,256917,Australia,718
+2374,US,0,251,United States of America,768
+2375,US,0,544,United States of America,284
+2376,US,0,11395,United States of America,1522
+2377,US,0,14635,United States of America,2394
+2378,US,0,13680,United States of America,2154
+2379,US,0,688,United States of America,374
+2380,US,0,11090,United States of America,1390
+2381,US,0,228194,United States of America,2538
+2382,AE,19,228194,United Arab Emirates,2538
+2383,IN,20,228194,India,2538
+2384,US,0,1642,United States of America,842
+2385,US,0,10950,United States of America,1349
+2386,US,0,277,United States of America,159
+2387,GB,1,277,United Kingdom,159
+2388,DE,9,277,Germany,159
+2389,HU,26,277,Hungary,159
+2390,US,0,8999,United States of America,2812
+2391,GB,1,8999,United Kingdom,2812
+2392,US,0,11323,United States of America,1223
+2393,US,0,11453,United States of America,1539
+2394,US,0,146239,United States of America,2525
+2395,US,0,10878,United States of America,1332
+2396,US,0,82650,United States of America,398
+2397,US,0,2294,United States of America,1179
+2398,US,0,2176,United States of America,2768
+2399,US,0,270487,United States of America,79
+2400,US,0,204082,United States of America,2664
+2401,US,0,24100,United States of America,2713
+2402,DE,9,24100,Germany,2713
+2403,NL,17,24100,Netherlands,2713
+2404,US,0,5550,United States of America,2169
+2405,US,0,11661,United States of America,1889
+2406,GB,1,11661,United Kingdom,1889
+2407,DE,9,11661,Germany,1889
+2408,JP,13,11661,Japan,1889
+2409,FR,16,11661,France,1889
+2410,BE,23,11661,Belgium,1889
+2411,NO,28,11661,Norway,1889
+2412,RO,32,11661,Romania,1889
+2413,US,0,109513,United States of America,1447
+2414,US,0,44113,United States of America,1499
+2415,US,0,164457,United States of America,326
+2416,US,0,4566,United States of America,1928
+2417,US,0,81836,United States of America,2810
+2418,IT,12,81836,Italy,2810
+2419,ES,18,81836,Spain,2810
+2420,US,0,10724,United States of America,1277
+2421,US,0,1499,United States of America,444
+2422,HK,21,1499,Hong Kong,444
+2423,US,0,20857,United States of America,1899
+2424,DE,9,20857,Germany,1899
+2425,US,0,82693,United States of America,423
+2426,US,0,1646,United States of America,845
+2427,DE,9,1646,Germany,845
+2428,US,0,4108,United States of America,1802
+2429,FR,16,4108,France,1802
+2430,US,0,8456,United States of America,152
+2431,US,0,7341,United States of America,1475
+2432,US,0,19255,United States of America,1382
+2433,US,0,10187,United States of America,2280
+2434,US,0,31005,United States of America,2387
+2435,US,0,50780,United States of America,831
+2436,AE,19,50780,United Arab Emirates,831
+2437,US,0,85,United States of America,41
+2438,US,0,772,United States of America,422
+2439,US,0,840,United States of America,2058
+2440,US,0,9682,United States of America,758
+2441,US,0,96,United States of America,48
+2442,US,0,10678,United States of America,2470
+2443,US,0,274,United States of America,157
+2444,US,0,8872,United States of America,1792
+2445,US,0,16290,United States of America,2697
+2446,RO,32,16290,Romania,2697
+2447,US,0,14405,United States of America,2340
+2448,US,0,138843,United States of America,2723
+2449,US,0,11637,United States of America,1593
+2450,US,0,226486,United States of America,2117
+2451,US,0,1584,United States of America,806
+2452,DE,9,1584,Germany,806
+2453,US,0,9312,United States of America,573
+2454,US,0,12153,United States of America,1756
+2455,US,0,65057,United States of America,2712
+2456,US,0,76203,United States of America,1250
+2457,GB,1,76203,United Kingdom,1250
+2458,US,0,13497,United States of America,2120
+2459,US,0,35688,United States of America,1399
+2460,US,0,162,United States of America,87
+2461,US,0,296096,United States of America,606
+2462,US,0,1051,United States of America,539
+2463,US,0,376659,United States of America,2771
+2464,US,0,10073,United States of America,968
+2465,CH,41,10073,Switzerland,968
+2466,US,0,16690,United States of America,773
+2467,CA,11,16690,Canada,773
+2468,AU,15,16690,Australia,773
+2469,US,0,273895,United States of America,1629
+2470,GB,1,273895,United Kingdom,1629
+2471,US,0,14873,United States of America,2462
+2472,AU,15,14873,Australia,2462
+2473,US,0,9963,United States of America,1851
+2474,US,0,15655,United States of America,2659
+2475,US,0,21208,United States of America,2320
+2476,DE,9,21208,Germany,2320
+2477,CA,11,21208,Canada,2320
+2478,FR,16,21208,France,2320
+2479,US,0,272878,United States of America,1281
+2480,US,0,9760,United States of America,793
+2481,US,0,314365,United States of America,1470
+2482,CA,11,314365,Canada,1470
+2483,US,0,13279,United States of America,2067
+2484,US,0,1975,United States of America,1024
+2485,US,0,33644,United States of America,489
+2486,US,0,9895,United States of America,869
+2487,US,0,9570,United States of America,702
+2488,US,0,27579,United States of America,1439
+2489,GB,1,27579,United Kingdom,1439
+2490,US,0,16052,United States of America,2735
+2491,US,0,40264,United States of America,2670
+2492,US,0,1164,United States of America,594
+2493,JP,13,1164,Japan,594
+2494,FR,16,1164,France,594
+2495,MX,33,1164,Mexico,594
+2496,US,0,239678,United States of America,1093
+2497,US,0,14359,United States of America,2332
+2498,US,0,76617,United States of America,1387
+2499,US,0,4258,United States of America,1845
+2500,US,0,20391,United States of America,1773
+2501,US,0,10139,United States of America,1008
+2502,US,0,335778,United States of America,2809
+2503,US,0,9645,United States of America,742
+2504,AU,15,9645,Australia,742
+2505,US,0,55465,United States of America,2070
+2506,US,0,617,United States of America,1674
+2507,US,0,48289,United States of America,2616
+2508,US,0,243,United States of America,140
+2509,GB,1,243,United Kingdom,140
+2510,US,0,8848,United States of America,351
+2511,GB,1,8848,United Kingdom,351
+2512,AU,15,8848,Australia,351
+2513,US,0,38,United States of America,20
+2514,US,0,38303,United States of America,2164
+2515,US,0,1266,United States of America,649
+2516,US,0,19901,United States of America,1621
+2517,AU,15,19901,Australia,1621
+2518,US,0,34016,United States of America,2669
+2519,US,0,59860,United States of America,2503
+2520,HU,26,59860,Hungary,2503
+2521,US,0,10069,United States of America,965
+2522,US,0,12819,United States of America,2819
+2523,IN,20,12819,India,2819
+2524,US,0,9954,United States of America,903
+2525,US,0,25132,United States of America,290
+2526,AE,19,25132,United Arab Emirates,290
+2527,US,0,577,United States of America,297
+2528,US,0,328387,United States of America,1837
+2529,US,0,12690,United States of America,1905
+2530,US,0,13596,United States of America,2143
+2531,US,0,226857,United States of America,2202
+2532,US,0,526,United States of America,280
+2533,US,0,22796,United States of America,2381
+2534,US,0,2355,United States of America,1200
+2535,US,0,5915,United States of America,2268
+2536,US,0,9842,United States of America,847
+2537,US,0,755,United States of America,1916
+2538,US,0,470,United States of America,249
+2539,US,0,15644,United States of America,2652
+2540,US,0,9582,United States of America,709
+2541,US,0,22074,United States of America,2207
+2542,US,0,2428,United States of America,2372
+2543,US,0,290751,United States of America,1782
+2544,GB,1,290751,United Kingdom,1782
+2545,ES,18,290751,Spain,1782
+2546,US,0,13805,United States of America,2185
+2547,US,0,4597,United States of America,1939
+2548,US,0,9414,United States of America,624
+2549,US,0,63492,United States of America,2326
+2550,US,0,15092,United States of America,2502
+2551,US,0,15005,United States of America,2482
+2552,US,0,8198,United States of America,2
+2553,US,0,6963,United States of America,2518
+2554,DE,9,6963,Germany,2518
+2555,US,0,15070,United States of America,2497
+2556,US,0,17134,United States of America,408
+2557,US,0,41402,United States of America,239
+2558,GB,1,41402,United Kingdom,239
+2559,US,0,146198,United States of America,2511
+2560,US,0,2639,United States of America,1315
+2561,US,0,295964,United States of America,540
+2562,US,0,11835,United States of America,2152
+2563,US,0,14396,United States of America,2339
+2564,US,0,15673,United States of America,2666
+2565,US,0,171274,United States of America,2644
+2566,US,0,109417,United States of America,1984
+2567,US,0,13948,United States of America,2225
+2568,US,0,106747,United States of America,143
+2569,US,0,256962,United States of America,1443
+2570,MX,33,256962,Mexico,1443
+2571,US,0,3509,United States of America,1613
+2572,US,0,12142,United States of America,1751
+2573,DE,9,12142,Germany,1751
+2574,CA,11,12142,Canada,1751
+2575,US,0,23367,United States of America,2529
+2576,US,0,241239,United States of America,2192
+2577,AE,19,241239,United Arab Emirates,2192
+2578,US,0,3902,United States of America,1853
+2579,US,0,77948,United States of America,405
+2580,US,0,21755,United States of America,2703
+2581,US,0,32316,United States of America,2716
+2582,US,0,7299,United States of America,2605
+2583,US,0,314385,United States of America,1477
+2584,FR,16,314385,France,1477
+2585,US,0,10448,United States of America,1161
+2586,US,0,43935,United States of America,1425
+2587,US,0,44638,United States of America,1666
+2588,US,0,199373,United States of America,1352
+2589,US,0,581,United States of America,300
+2590,GB,1,581,United Kingdom,300
+2591,US,0,52449,United States of America,1552
+2592,US,0,12150,United States of America,1755
+2593,US,0,11247,United States of America,1464
+2594,CA,11,11247,Canada,1464
+2595,US,0,4232,United States of America,1832
+2596,US,0,694,United States of America,378
+2597,GB,1,694,United Kingdom,378
+2598,US,0,105,United States of America,54
+2599,US,0,11377,United States of America,1511
+2600,US,0,41210,United States of America,142
+2601,US,0,12090,United States of America,1728
+2602,DE,9,12090,Germany,1728
+2603,US,0,29427,United States of America,1994
+2604,US,0,2669,United States of America,1323
+2605,GB,1,2669,United Kingdom,1323
+2606,US,0,13523,United States of America,2127
+2607,US,0,25195,United States of America,1676
+2608,IE,24,25195,Ireland,1676
+2609,US,0,17277,United States of America,496
+2610,US,0,50725,United States of America,797
+2611,DE,9,50725,Germany,797
+2612,US,0,10065,United States of America,962
+2613,US,0,2757,United States of America,1348
+2614,US,0,11683,United States of America,1927
+2615,CA,11,11683,Canada,1927
+2616,FR,16,11683,France,1927
+2617,US,0,1878,United States of America,966
+2618,US,0,23082,United States of America,2465
+2619,US,0,195589,United States of America,2573
+2620,US,0,854,United States of America,472
+2621,US,0,2280,United States of America,1170
+2622,US,0,496,United States of America,2467
+2623,US,0,8835,United States of America,1711
+2624,US,0,157,United States of America,85
+2625,US,0,8643,United States of America,242
+2626,US,0,10402,United States of America,1144
+2627,US,0,218043,United States of America,2059
+2628,US,0,21301,United States of America,2023
+2629,US,0,10147,United States of America,1013
+2630,DE,9,10147,Germany,1013
+2631,US,0,816,United States of America,2010
+2632,DE,9,816,Germany,2010
+2633,US,0,60307,United States of America,713
+2634,US,0,106,United States of America,55
+2635,US,0,10625,United States of America,1231
+2636,US,0,5279,United States of America,2106
+2637,GB,1,5279,United Kingdom,2106
+2638,DE,9,5279,Germany,2106
+2639,US,0,10013,United States of America,934
+2640,US,0,194662,United States of America,2348
+2641,US,0,160588,United States of America,2031
+2642,US,0,10028,United States of America,944
+2643,US,0,790,United States of America,436
+2644,US,0,43959,United States of America,1436
+2645,US,0,10364,United States of America,2820
+2646,US,0,9610,United States of America,723
+2647,US,0,1578,United States of America,2694
+2648,US,0,25643,United States of America,547
+2649,GB,1,25643,United Kingdom,547
+2650,CA,11,25643,Canada,547
+2651,US,0,44115,United States of America,1500
+2652,GB,1,44115,United Kingdom,1500
+2653,US,0,10560,United States of America,1206
+2654,US,0,333348,United States of America,2201
+2655,US,0,20483,United States of America,1800
+2656,US,0,321697,United States of America,1143
+2657,US,0,38665,United States of America,2262
+2658,US,0,2575,United States of America,1291
+2659,IE,24,2575,Ireland,1291
+2660,US,0,11644,United States of America,1595
+2661,US,0,146227,United States of America,2138
+2662,BG,40,146227,Bulgaria,2138
+2663,US,0,68924,United States of America,1575
+2664,FR,16,68924,France,1575
+2665,US,0,253235,United States of America,2665
+2666,US,0,10068,United States of America,964
+2667,US,0,522,United States of America,276
+2668,US,0,130150,United States of America,2596
+2669,US,0,245703,United States of America,2817
+2670,US,0,10017,United States of America,938
+2671,CA,11,10017,Canada,938
+2672,US,0,11468,United States of America,1543
+2673,US,0,17436,United States of America,2361
+2674,DE,9,17436,Germany,2361
+2675,US,0,9626,United States of America,733
+2676,NL,17,9626,Netherlands,733
+2677,US,0,75638,United States of America,986
+2678,ES,18,75638,Spain,986
+2679,US,0,8363,United States of America,95
+2680,US,0,8328,United States of America,71
+2681,US,0,10982,United States of America,1358
+2682,US,0,205,United States of America,119
+2683,GB,1,205,United Kingdom,119
+2684,CA,11,205,Canada,119
+2685,IT,12,205,Italy,119
+2686,ZA,30,205,South Africa,119
+2687,US,0,1620,United States of America,827
+2688,FR,16,1620,France,827
+2689,US,0,175541,United States of America,1958
+2690,US,0,241254,United States of America,2218
+2691,US,0,679,United States of America,368
+2692,GB,1,679,United Kingdom,368
+2693,US,0,3597,United States of America,1640
+2694,US,0,193893,United States of America,2153
+2695,US,0,9675,United States of America,754
+2696,US,0,9988,United States of America,920
+2697,US,0,948,United States of America,2206
+2698,US,0,146304,United States of America,2550
+2699,US,0,7516,United States of America,2676
+2700,GB,1,7516,United Kingdom,2676
+2701,FR,16,7516,France,2676
+2702,US,0,41439,United States of America,1384
+2703,CA,11,41439,Canada,1384
+2704,US,0,9429,United States of America,632
+2705,US,0,38117,United States of America,2133
+2706,US,0,9792,United States of America,815
+2707,FR,16,9792,France,815
+2708,US,0,13960,United States of America,2231
+2709,US,0,114150,United States of America,2705
+2710,US,0,26602,United States of America,1847
+2711,US,0,26390,United States of America,929
+2712,US,0,27759,United States of America,1338
+2713,US,0,109428,United States of America,1404
+2714,US,0,23049,United States of America,2458
+2715,GR,51,23049,Greece,2458
+2716,US,0,9310,United States of America,572
+2717,US,0,11411,United States of America,1528
+2718,GB,1,11411,United Kingdom,1528
+2719,US,0,7304,United States of America,2608
+2720,DE,9,7304,Germany,2608
+2721,US,0,1491,United States of America,759
+2722,CZ,5,1491,Czech Republic,759
+2723,US,0,10629,United States of America,1234
+2724,GB,1,10629,United Kingdom,1234
+2725,IE,24,10629,Ireland,1234
+2726,US,0,4723,United States of America,1971
+2727,DE,9,4723,Germany,1971
+2728,FR,16,4723,France,1971
+2729,US,0,25763,United States of America,2563
+2730,US,0,79694,United States of America,2278
+2731,US,0,18615,United States of America,1147
+2732,US,0,10673,United States of America,1252
+2733,US,0,4584,United States of America,1933
+2734,GB,1,4584,United Kingdom,1933
+2735,US,0,2977,United States of America,1427
+2736,GB,1,2977,United Kingdom,1427
+2737,US,0,11093,United States of America,1393
+2738,US,0,207,United States of America,120
+2739,US,0,8467,United States of America,158
+2740,US,0,639,United States of America,338
+2741,US,0,24226,United States of America,2732
+2742,US,0,9285,United States of America,2427
+2743,US,0,13788,United States of America,2182
+2744,US,0,83666,United States of America,894
+2745,US,0,318850,United States of America,2686
+2746,US,0,1417,United States of America,722
+2747,ES,18,1417,Spain,722
+2748,MX,33,1417,Mexico,722
+2749,US,0,16161,United States of America,2756
+2750,US,0,49950,United States of America,441
+2751,US,0,10956,United States of America,1351
+2752,US,0,9594,United States of America,716
+2753,US,0,13972,United States of America,925
+2754,US,0,5038,United States of America,2057
+2755,ES,18,5038,Spain,2057
+2756,US,0,10571,United States of America,1211
+2757,US,0,19994,United States of America,1645
+2758,US,0,25166,United States of America,306
+2759,US,0,12120,United States of America,2578
+2760,US,0,9800,United States of America,819
+2761,US,0,1090,United States of America,558
+2762,US,0,9781,United States of America,810
+2763,US,0,8009,United States of America,2767
+2764,GB,1,8009,United Kingdom,2767
+2765,US,0,3877,United States of America,1719
+2766,US,0,8854,United States of America,355
+2767,US,0,152599,United States of America,2075
+2768,US,0,12657,United States of America,1145
+2769,US,0,28178,United States of America,1642
+2770,GB,1,28178,United Kingdom,1642
+2771,US,0,264656,United States of America,1268
+2772,FR,16,264656,France,1268
+2773,US,0,18777,United States of America,1216
+2774,US,0,90,United States of America,45
+2775,US,0,771,United States of America,421
+2776,US,0,9576,United States of America,706
+2777,US,0,744,United States of America,404
+2778,US,0,14,United States of America,7
+2779,US,0,9493,United States of America,665
+2780,US,0,22556,United States of America,2335
+2781,US,0,873,United States of America,486
+2782,US,0,16769,United States of America,207
+2783,US,0,33217,United States of America,241
+2784,GB,1,33217,United Kingdom,241
+2785,US,0,11153,United States of America,1418
+2786,US,0,208134,United States of America,1560
+2787,US,0,1165,United States of America,2531
+2788,GB,1,1165,United Kingdom,2531
+2789,IT,12,1165,Italy,2531
+2790,FR,16,1165,France,2531
+2791,US,0,4011,United States of America,1775
+2792,US,0,17202,United States of America,455
+2793,US,0,10053,United States of America,955
+2794,US,0,11870,United States of America,2205
+2795,US,0,11778,United States of America,1635
+2796,GB,1,11778,United Kingdom,1635
+2797,US,0,586,United States of America,303
+2798,US,0,134411,United States of America,1562
+2799,AE,19,134411,United Arab Emirates,1562
+2800,US,0,287903,United States of America,605
+2801,US,0,9276,United States of America,553
+2802,US,0,2142,United States of America,1115
+2803,US,0,11397,United States of America,1524
+2804,US,0,77016,United States of America,1547
+2805,US,0,11478,United States of America,1546
+2806,CA,11,11478,Canada,1546
+2807,US,0,10564,United States of America,1208
+2808,US,0,24150,United States of America,2721
+2809,US,0,228970,United States of America,2725
+2810,US,0,18405,United States of America,1744
+2811,US,0,6961,United States of America,2517
+2812,US,0,11442,United States of America,1534
+2813,US,0,2493,United States of America,1259
+2814,US,0,14047,United States of America,2251
+2815,US,0,64690,United States of America,2624
+2816,US,0,11132,United States of America,1409
+2817,DE,9,11132,Germany,1409
+2818,US,0,17127,United States of America,403
+2819,US,0,232679,United States of America,1589
+2820,US,0,17880,United States of America,763
+2821,US,0,14736,United States of America,2421
+2822,US,0,23706,United States of America,2614
+2823,US,0,9100,United States of America,2151
+2824,US,0,116,United States of America,61
+2825,GB,1,116,United Kingdom,61
+2826,IE,24,116,Ireland,61
+2827,RU,31,116,Russia,61
+2828,LU,45,116,Luxembourg,61
+2829,US,0,1245,United States of America,634
+2830,GB,1,1245,United Kingdom,634
+2831,US,0,4995,United States of America,2049
+2832,US,0,14012,United States of America,1444
+2833,GB,1,14012,United Kingdom,1444
+2834,US,0,12212,United States of America,1778
+2835,CA,11,12212,Canada,1778
+2836,US,0,8975,United States of America,2635
+2837,US,0,342521,United States of America,2453
+2838,US,0,45272,United States of America,2744
+2839,US,0,9424,United States of America,628
+2840,AU,15,9424,Australia,628
+2841,US,0,97367,United States of America,2710
+2842,US,0,254904,United States of America,516
+2843,GB,1,254904,United Kingdom,516
+2844,US,0,12162,United States of America,1762
+2845,US,0,11495,United States of America,1555
+2846,US,0,64689,United States of America,1485
+2847,US,0,157849,United States of America,1138
+2848,GB,1,157849,United Kingdom,1138
+2849,DE,9,157849,Germany,1138
+2850,US,0,51828,United States of America,1327
+2851,GB,1,51828,United Kingdom,1327
+2852,US,0,22798,United States of America,2382
+2853,US,0,7501,United States of America,2671
+2854,US,0,97430,United States of America,2611
+2855,HK,21,97430,Hong Kong,2611
+2856,US,0,12257,United States of America,1789
+2857,US,0,14024,United States of America,2248
+2858,US,0,115,United States of America,60
+2859,GB,1,115,United Kingdom,60
+2860,US,0,7874,United States of America,2739
+2861,US,0,4911,United States of America,2018
+2862,GB,1,4911,United Kingdom,2018
+2863,DE,9,4911,Germany,2018
+2864,US,0,1988,United States of America,1029
+2865,GB,1,1988,United Kingdom,1029
+2866,FR,16,1988,France,1029
+2867,PK,34,1988,Pakistan,1029
+2868,US,0,16222,United States of America,2773
+2869,US,0,9557,United States of America,693
+2870,DE,9,9557,Germany,693
+2871,US,0,8321,United States of America,67
+2872,GB,1,8321,United Kingdom,67
+2873,US,0,10186,United States of America,1033
+2874,US,0,25704,United States of America,577
+2875,US,0,133694,United States of America,1307
+2876,AE,19,133694,United Arab Emirates,1307
+2877,US,0,19265,United States of America,1386
+2878,FR,16,19265,France,1386
+2879,US,0,8053,United States of America,2787
+2880,FR,16,8053,France,2787
+2881,US,0,5236,United States of America,2098
+2882,US,0,6552,United States of America,2425
+2883,US,0,1018,United States of America,531
+2884,FR,16,1018,France,531
+2885,US,0,42188,United States of America,626
+2886,GB,1,42188,United Kingdom,626
+2887,US,0,8461,United States of America,155
+2888,GB,1,8461,United Kingdom,155
+2889,DE,9,8461,Germany,155
+2890,IT,12,8461,Italy,155
+2891,FR,16,8461,France,155
+2892,AT,53,8461,Austria,155
+2893,US,0,400,United States of America,218
+2894,US,0,10185,United States of America,1032
+2895,US,0,137,United States of America,72
+2896,US,0,264999,United States of America,1377
+2897,US,0,454,United States of America,244
+2898,US,0,33,United States of America,17
+2899,US,0,10998,United States of America,1363
+2900,US,0,114,United States of America,59
+2901,US,0,2604,United States of America,1298
+2902,US,0,864,United States of America,480
+2903,US,0,14435,United States of America,2346
+2904,US,0,1931,United States of America,997
+2905,US,0,691,United States of America,376
+2906,GB,1,691,United Kingdom,376
+2907,US,0,9877,United States of America,858
+2908,CA,11,9877,Canada,858
+2909,FR,16,9877,France,858
+2910,US,0,12227,United States of America,1783
+2911,US,0,8291,United States of America,50
+2912,US,0,13950,United States of America,2226
+2913,US,0,12158,United States of America,1759
+2914,US,0,11586,United States of America,1578
+2915,US,0,12403,United States of America,1826
+2916,US,0,34563,United States of America,919
+2917,US,0,14434,United States of America,2345
+2918,IN,20,14434,India,2345
+2919,US,0,24940,United States of America,2299
+2920,US,0,82679,United States of America,412
+2921,US,0,2013,United States of America,1049
+2922,FR,16,2013,France,1049
+2923,US,0,1440,United States of America,735
+2924,US,0,18041,United States of America,849
+2925,US,0,87729,United States of America,2244
+2926,US,0,44754,United States of America,1697
+2927,US,0,142,United States of America,75
+2928,CA,11,142,Canada,75
+2929,US,0,10712,United States of America,1273
+2930,US,0,243938,United States of America,2368
+2931,US,0,10876,United States of America,1330
+2932,GB,1,10876,United Kingdom,1330
+2933,DE,9,10876,Germany,1330
+2934,US,0,97370,United States of America,2594
+2935,GB,1,97370,United Kingdom,2594
+2936,CH,41,97370,Switzerland,2594
+2937,US,0,801,United States of America,442
+2938,US,0,44214,United States of America,1535
+2939,US,0,240,United States of America,138
+2940,US,0,9816,United States of America,786
+2941,US,0,10131,United States of America,1001
+2942,US,0,339984,United States of America,1803
+2943,US,0,8859,United States of America,358
+2944,US,0,11967,United States of America,1685
+2945,US,0,239563,United States of America,1688
+2946,US,0,222899,United States of America,1089
+2947,US,0,4951,United States of America,2035
+2948,US,0,1954,United States of America,1012
+2949,CA,11,1954,Canada,1012
+2950,US,0,22345,United States of America,2277
+2951,US,0,9448,United States of America,643
+2952,US,0,11186,United States of America,1432
+2953,US,0,136835,United States of America,2229
+2954,US,0,5876,United States of America,2255
+2955,US,0,492,United States of America,260
+2956,US,0,10691,United States of America,1261
+2957,US,0,5172,United States of America,2079
+2958,US,0,58680,United States of America,679
+2959,US,0,11592,United States of America,1777
+2960,US,0,16406,United States of America,69
+2961,CA,11,16406,Canada,69
+2962,FR,16,16406,France,69
+2963,US,0,3682,United States of America,1669
+2964,US,0,107811,United States of America,672
+2965,US,0,144340,United States of America,2064
+2966,US,0,28211,United States of America,1651
+2967,CA,11,28211,Canada,1651
+2968,FR,16,28211,France,1651
+2969,US,0,47502,United States of America,2420
+2970,US,0,9950,United States of America,901
+2971,DE,9,9950,Germany,901
+2972,US,0,84892,United States of America,1423
+2973,US,0,24227,United States of America,2733
+2974,US,0,9672,United States of America,753
+2975,US,0,157544,United States of America,978
+2976,US,0,79777,United States of America,2304
+2977,US,0,158011,United States of America,2287
+2978,US,0,8952,United States of America,413
+2979,US,0,62204,United States of America,1998
+2980,CA,11,62204,Canada,1998
+2981,FR,16,62204,France,1998
+2982,US,0,13435,United States of America,2100
+2983,US,0,319,United States of America,175
+2984,US,0,9504,United States of America,671
+2985,US,0,26688,United States of America,1903
+2986,US,0,6615,United States of America,2446
+2987,US,0,14574,United States of America,2374
+2988,GB,1,14574,United Kingdom,2374
+2989,US,0,16,United States of America,8
+2990,GB,1,16,United Kingdom,8
+2991,DE,9,16,Germany,8
+2992,IT,12,16,Italy,8
+2993,FR,16,16,France,8
+2994,NL,17,16,Netherlands,8
+2995,NO,28,16,Norway,8
+2996,SE,29,16,Sweden,8
+2997,FI,35,16,Finland,8
+2998,IS,36,16,Iceland,8
+2999,DK,37,16,Denmark,8
+3000,AR,49,16,Argentina,8
+3001,US,0,21612,United States of America,2096
+3002,US,0,36691,United States of America,1739
+3003,US,0,23631,United States of America,2590
+3004,US,0,12144,United States of America,2020
+3005,IE,24,12144,Ireland,2020
+3006,US,0,56601,United States of America,2649
+3007,US,0,9552,United States of America,2822
+3008,US,0,578,United States of America,1598
+3009,US,0,2105,United States of America,1092
+3010,US,0,10136,United States of America,1005
+3011,US,0,67660,United States of America,1105
+3012,US,0,10611,United States of America,1226
+3013,US,0,154,United States of America,1950
+3014,US,0,3049,United States of America,987
+3015,US,0,860,United States of America,476
+3016,US,0,9281,United States of America,557
+3017,US,0,75674,United States of America,1602
+3018,US,0,9762,United States of America,794
+3019,US,0,184,United States of America,106
+3020,US,0,13335,United States of America,2593
+3021,US,0,76726,United States of America,1435
+3022,US,0,10269,United States of America,1081
+3023,GB,1,10269,United Kingdom,1081
+3024,US,0,17130,United States of America,406
+3025,US,0,57214,United States of America,2639
+3026,US,0,9357,United States of America,595
+3027,US,0,13812,United States of America,2189
+3028,US,0,9030,United States of America,464
+3029,US,0,19084,United States of America,1335
+3030,US,0,8386,United States of America,2313
+3031,US,0,1360,United States of America,691
+3032,CA,11,1360,Canada,691
+3033,MX,33,1360,Mexico,691
+3034,US,0,222935,United States of America,896
+3035,US,0,10220,United States of America,1059
+3036,US,0,11601,United States of America,1582
+3037,US,0,14191,United States of America,2289
+3038,AU,15,14191,Australia,2289
+3039,US,0,129670,United States of America,2479
+3040,US,0,34549,United States of America,911
+3041,US,0,57157,United States of America,2764
+3042,US,0,1948,United States of America,1009
+3043,US,0,46889,United States of America,2271
+3044,US,0,60599,United States of America,1536
+3045,US,0,227719,United States of America,2416
+3046,US,0,12088,United States of America,1726
+3047,AU,15,12088,Australia,1726
+3048,US,0,14799,United States of America,2443
+3049,US,0,7510,United States of America,2674
+3050,US,0,31246,United States of America,2459
+3051,US,0,61752,United States of America,1882
+3052,US,0,10362,United States of America,1125
+3053,FR,16,10362,France,1125
+3054,US,0,86825,United States of America,2016
+3055,US,0,38448,United States of America,2204
+3056,IE,24,38448,Ireland,2204
+3057,US,0,236751,United States of America,2662
+3058,US,0,107,United States of America,56
+3059,GB,1,107,United Kingdom,56
+3060,US,0,927,United States of America,508
+3061,US,0,11,United States of America,4
+3062,US,0,291870,United States of America,2077
+3063,US,0,45317,United States of America,544
+3064,US,0,12094,United States of America,1731
+3065,US,0,10377,United States of America,1130
+3066,US,0,249164,United States of America,1785
+3067,US,0,9942,United States of America,895
+3068,US,0,1817,United States of America,931
+3069,US,0,10229,United States of America,1062
+3070,US,0,687,United States of America,373
+3071,GB,1,687,United Kingdom,373
+3072,US,0,796,United States of America,2679
+3073,US,0,22804,United States of America,2386
+3074,GB,1,22804,United Kingdom,2386
+3075,CA,11,22804,Canada,2386
+3076,AU,15,22804,Australia,2386
+3077,US,0,10156,United States of America,1017
+3078,US,0,12837,United States of America,1953
+3079,US,0,17708,United States of America,2752
+3080,US,0,13937,United States of America,2223
+3081,US,0,28932,United States of America,1867
+3082,US,0,31909,United States of America,2617
+3083,US,0,14369,United States of America,2336
+3084,US,0,16888,United States of America,1924
+3085,US,0,10646,United States of America,2415
+3086,US,0,12149,United States of America,1754
+3087,DE,9,12149,Germany,1754
+3088,IT,12,12149,Italy,1754
+3089,US,0,304357,United States of America,641
+3090,GB,1,304357,United Kingdom,641
+3091,US,0,20009,United States of America,1649
+3092,CA,11,20009,Canada,1649
+3093,US,0,1587,United States of America,808
+3094,US,0,63020,United States of America,2203
+3095,US,0,86829,United States of America,2017
+3096,GB,1,86829,United Kingdom,2017
+3097,FR,16,86829,France,2017
+3098,US,0,42345,United States of America,707
+3099,US,0,11917,United States of America,2279
+3100,US,0,24137,United States of America,2718
+3101,GB,1,24137,United Kingdom,2718
+3102,US,0,601,United States of America,1644
+3103,US,0,13067,United States of America,2007
+3104,US,0,88641,United States of America,2469
+3105,US,0,489,United States of America,258
+3106,CA,11,489,Canada,258
+3107,US,0,214,United States of America,122
+3108,US,0,10890,United States of America,2762
+3109,US,0,1588,United States of America,809
+3110,US,0,316727,United States of America,2148
+3111,FR,16,316727,France,2148
+3112,US,0,10314,United States of America,1103
+3113,US,0,663,United States of America,356
+3114,US,0,11804,United States of America,1647
+3115,GB,1,11804,United Kingdom,1647
+3116,CA,11,11804,Canada,1647
+3117,US,0,11873,United States of America,1668
+3118,US,0,9289,United States of America,562
+3119,US,0,10414,United States of America,1146
+3120,US,0,1970,United States of America,1022
+3121,JP,13,1970,Japan,1022
+3122,US,0,9614,United States of America,186
+3123,US,0,8922,United States of America,2242
+3124,DE,9,8922,Germany,2242
+3125,US,0,1648,United States of America,846
+3126,US,0,74534,United States of America,445
+3127,GB,1,74534,United Kingdom,445
+3128,AE,19,74534,United Arab Emirates,445
+3129,US,0,10999,United States of America,1364
+3130,US,0,44040,United States of America,1473
+3131,US,0,10426,United States of America,1149
+3132,US,0,280092,United States of America,791
+3133,CA,11,280092,Canada,791
+3134,US,0,13938,United States of America,2224
+3135,US,0,10163,United States of America,1023
+3136,GB,1,10163,United Kingdom,1023
+3137,JP,13,10163,Japan,1023
+3138,US,0,12182,United States of America,1770
+3139,US,0,1832,United States of America,1361
+3140,US,0,15301,United States of America,2560
+3141,US,0,10135,United States of America,1004
+3142,US,0,26352,United States of America,908
+3143,US,0,20616,United States of America,1974
+3144,US,0,9794,United States of America,816
+3145,US,0,15037,United States of America,2487
+3146,US,0,227,United States of America,692
+3147,US,0,294272,United States of America,2701
+3148,US,0,11336,United States of America,1497
+3149,US,0,88036,United States of America,1741
+3150,US,0,22824,United States of America,2392
+3151,US,0,11545,United States of America,1566
+3152,US,0,268238,United States of America,2315
+3153,GB,1,268238,United Kingdom,2315
+3154,US,0,41823,United States of America,479
+3155,US,0,9362,United States of America,600
+3156,US,0,9902,United States of America,874
+3157,DE,9,9902,Germany,874
+3158,US,0,14729,United States of America,2418
+3159,US,0,9455,United States of America,647
+3160,US,0,103731,United States of America,2146
+3161,US,0,10090,United States of America,979
+3162,US,0,9515,United States of America,675
+3163,DE,9,9515,Germany,675
+3164,US,0,328425,United States of America,2782
+3165,US,0,1542,United States of America,780
+3166,US,0,10490,United States of America,1183
+3167,US,0,87093,United States of America,2400
+3168,CA,11,87093,Canada,2400
+3169,US,0,10029,United States of America,945
+3170,US,0,11507,United States of America,1557
+3171,US,0,37931,United States of America,2078
+3172,US,0,87818,United States of America,2263
+3173,US,0,88005,United States of America,2312
+3174,US,0,73,United States of America,237
+3175,US,0,209403,United States of America,1941
+3176,US,0,73247,United States of America,2711
+3177,US,0,253331,United States of America,2689
+3178,US,0,9952,United States of America,902
+3179,US,0,256924,United States of America,2557
+3180,US,0,82532,United States of America,1926
+3181,US,0,2088,United States of America,1085
+3182,GB,1,2088,United Kingdom,1085
+3183,US,0,10388,United States of America,1135
+3184,US,0,1640,United States of America,840
+3185,DE,9,1640,Germany,840
+3186,US,0,25520,United States of America,2199
+3187,GB,1,25520,United Kingdom,2199
+3188,DE,9,25520,Germany,2199
+3189,FR,16,25520,France,2199
+3190,US,0,47890,United States of America,2510
+3191,NL,17,47890,Netherlands,2510
+3192,US,0,252512,United States of America,2473
+3193,US,0,55720,United States of America,2431
+3194,US,0,29076,United States of America,1906
+3195,US,0,68812,United States of America,1545
+3196,US,0,73567,United States of America,2774
+3197,US,0,41479,United States of America,274
+3198,US,0,101173,United States of America,1381
+3199,IT,12,101173,Italy,1381
+3200,CS,56,101173,Serbia and Montenegro,1381
+3201,US,0,20178,United States of America,2373
+3202,US,0,78149,United States of America,1886
+3203,US,0,16614,United States of America,132
+3204,US,0,9700,United States of America,769
+3205,US,0,10471,United States of America,1169
+3206,US,0,348,United States of America,189
+3207,GB,1,348,United Kingdom,189
+3208,US,0,27586,United States of America,541
+3209,US,0,14811,United States of America,2447
+3210,US,0,660,United States of America,354
+3211,GB,1,660,United Kingdom,354
+3212,BS,3,660,Bahamas,354
+3213,FR,16,660,France,354
+3214,US,0,9400,United States of America,620
+3215,US,0,16162,United States of America,2757
+3216,US,0,10585,United States of America,2440
+3217,US,0,2359,United States of America,1203
+3218,US,0,238636,United States of America,548
+3219,FR,16,238636,France,548
+3220,US,0,11282,United States of America,1478
+3221,US,0,14181,United States of America,1503
+3222,US,0,1621,United States of America,828
+3223,US,0,9656,United States of America,747
+3224,CA,11,9656,Canada,747
+3225,US,0,9685,United States of America,760
+3226,US,0,14425,United States of America,2343
+3227,US,0,15568,United States of America,1414
+3228,US,0,67675,United States of America,1112
+3229,US,0,39806,United States of America,2549
+3230,US,0,17926,United States of America,545
+3231,US,0,13483,United States of America,2113
+3232,US,0,1547,United States of America,783
+3233,US,0,25196,United States of America,329
+3234,US,0,16323,United States of America,2816
+3235,US,0,175528,United States of America,1936
+3236,US,0,272693,United States of America,1201
+3237,US,0,10696,United States of America,1266
+3238,US,0,152747,United States of America,2736
+3239,US,0,680,United States of America,369
+3240,US,0,242582,United States of America,2052
+3241,US,0,11217,United States of America,1451
+3242,US,0,15121,United States of America,2509
+3243,US,0,2619,United States of America,1305
+3244,US,0,773,United States of America,1952
+3245,US,0,235,United States of America,720
+3246,US,0,10734,United States of America,2552
+3247,US,0,40807,United States of America,2780
+3248,US,0,225565,United States of America,2638
+3249,US,0,668,United States of America,359
+3250,GB,1,668,United Kingdom,359
+3251,US,0,11596,United States of America,1581
+3252,US,0,14429,United States of America,2344
+3253,US,0,13751,United States of America,2173
+3254,US,0,9490,United States of America,664
+3255,US,0,14536,United States of America,2114
+3256,CA,11,14536,Canada,2114
+3257,US,0,1359,United States of America,690
+3258,CA,11,1359,Canada,690
+3259,US,0,9962,United States of America,1228
+3260,DE,9,9962,Germany,1228
+3261,NL,17,9962,Netherlands,1228
+3262,US,0,22821,United States of America,2390
+3263,US,0,37735,United States of America,2095
+3264,US,0,10873,United States of America,1329
+3265,US,0,51588,United States of America,1233
+3266,US,0,291270,United States of America,1921
+3267,US,0,13154,United States of America,2039
+3268,US,0,43923,United States of America,1419
+3269,US,0,26306,United States of America,1131
+3270,US,0,198277,United States of America,852
+3271,US,0,7870,United States of America,2737
+3272,US,0,13072,United States of America,2008
+3273,US,0,13197,United States of America,2051
+3274,US,0,251321,United States of America,2174
+3275,FR,16,251321,France,2174
+3276,ES,18,251321,Spain,2174
+3277,US,0,10425,United States of America,1148
+3278,DE,9,10425,Germany,1148
+3279,US,0,403,United States of America,220
+3280,US,0,9388,United States of America,614
+3281,US,0,1691,United States of America,862
+3282,US,0,24684,United States of America,57
+3283,GB,1,24684,United Kingdom,57
+3284,US,0,2610,United States of America,2661
+3285,US,0,11022,United States of America,1370
+3286,CA,11,11022,Canada,1370
+3287,US,0,12569,United States of America,337
+3288,US,0,301365,United States of America,2398
+3289,FR,16,301365,France,2398
+3290,DK,37,301365,Denmark,2398
+3291,US,0,7326,United States of America,2615
+3292,US,0,681,United States of America,370
+3293,GB,1,681,United Kingdom,370
+3294,US,0,238,United States of America,137
+3295,US,0,19913,United States of America,1624
+3296,US,0,77930,United States of America,1824
+3297,US,0,57119,United States of America,2755
+3298,US,0,3291,United States of America,1549
+3299,GB,1,3291,United Kingdom,1549
+3300,JP,13,3291,Japan,1549
+3301,FR,16,3291,France,1549
+3302,US,0,398,United States of America,216
+3303,CA,11,398,Canada,216
+3304,US,0,8068,United States of America,2598
+3305,US,0,682,United States of America,371
+3306,GB,1,682,United Kingdom,371
+3307,US,0,10117,United States of America,1658
+3308,US,0,2074,United States of America,1080
+3309,US,0,308639,United States of America,240
+3310,US,0,22314,United States of America,2272
+3311,US,0,2662,United States of America,1321
+3312,US,0,12573,United States of America,1877
+3313,GB,1,12573,United Kingdom,1877
+3314,FR,16,12573,France,1877
+3315,US,0,241771,United States of America,1825
+3316,US,0,11051,United States of America,1378
+3317,CA,11,11051,Canada,1378
+3318,US,0,14578,United States of America,2375
+3319,US,0,16651,United States of America,153
+3320,US,0,14112,United States of America,2269
+3321,US,0,71859,United States of America,2363
+3322,GB,1,71859,United Kingdom,2363
+3323,US,0,33676,United States of America,500
+3324,CA,11,33676,Canada,500
+3325,US,0,44835,United States of America,2492
+3326,US,0,306745,United States of America,1655
+3327,US,0,47088,United States of America,2321
+3328,FR,16,47088,France,2321
+3329,US,0,27004,United States of America,1227
+3330,US,0,8374,United States of America,104
+3331,CA,11,8374,Canada,104
+3332,US,0,9571,United States of America,703
+3333,US,0,82505,United States of America,1615
+3334,US,0,250546,United States of America,1980
+3335,US,0,650,United States of America,347
+3336,US,0,16620,United States of America,136
+3337,US,0,11033,United States of America,1374
+3338,US,0,9430,United States of America,633
+3339,US,0,8998,United States of America,1991
+3340,US,0,87499,United States of America,2177
+3341,GB,1,87499,United Kingdom,2177
+3342,US,0,18923,United States of America,1457
+3343,US,0,28089,United States of America,1617
+3344,US,0,218,United States of America,2825
+3345,GB,1,218,United Kingdom,2825
+3346,US,0,2293,United States of America,1178
+3347,US,0,621,United States of America,330
+3348,US,0,792,United States of America,1976
+3349,GB,1,792,United Kingdom,1976
+3350,US,0,1777,United States of America,909
+3351,US,0,642,United States of America,341
+3352,US,0,433,United States of America,235
+3353,US,0,11977,United States of America,1691
+3354,US,0,16158,United States of America,2486
+3355,US,0,629,United States of America,335
+3356,US,0,10160,United States of America,1020
+3357,US,0,11452,United States of America,1538
+3358,US,0,12163,United States of America,1763
+3359,US,0,1103,United States of America,567
+3360,US,0,14144,United States of America,2274
+3361,US,0,13370,United States of America,2084
+3362,US,0,10215,United States of America,1749
+3363,GB,1,10215,United Kingdom,1749
+3364,US,0,25066,United States of America,259
+3365,US,0,1523,United States of America,774
+3366,GB,1,1523,United Kingdom,774
+3367,DE,9,1523,Germany,774
+3368,US,0,92591,United States of America,1251
+3369,US,0,15256,United States of America,2553
+3370,US,0,83686,United States of America,905
+3371,US,0,28053,United States of America,1601
+3372,US,0,1443,United States of America,736
+3373,US,0,231576,United States of America,1137
+3374,US,0,16172,United States of America,2758
+3375,US,0,13537,United States of America,2132
+3376,CA,11,13537,Canada,2132
+3377,US,0,20794,United States of America,1883
+3378,US,0,13990,United States of America,2241
+3379,US,0,27549,United States of America,743
+3380,US,0,59728,United States of America,1212
+3381,US,0,97614,United States of America,2672
+3382,FR,16,97614,France,2672
+3383,US,0,244783,United States of America,2584
+3384,US,0,455,United States of America,245
+3385,GB,1,455,United Kingdom,245
+3386,DE,9,455,Germany,245
+3387,IN,20,455,India,245
+3388,US,0,14351,United States of America,2330
+3389,US,0,9277,United States of America,554
+3390,US,0,11901,United States of America,1675
+3391,US,0,4997,United States of America,2050
+3392,CA,11,4997,Canada,2050
+3393,US,0,925,United States of America,506
+3394,US,0,215,United States of America,123
+3395,US,0,333371,United States of America,2208
+3396,US,0,9012,United States of America,2026
+3397,US,0,345911,United States of America,375
+3398,US,0,242512,United States of America,2068
+3399,JP,13,242512,Japan,2068
+3400,US,0,10072,United States of America,2688
+3401,US,0,11284,United States of America,1480
+3402,US,0,504,United States of America,265
+3403,US,0,1955,United States of America,1626
+3404,GB,1,1955,United Kingdom,1626
+3405,US,0,152532,United States of America,2258
+3406,US,0,243940,United States of America,2369
+3407,US,0,77,United States of America,36
+3408,US,0,157547,United States of America,980
+3409,US,0,2295,United States of America,1180
+3410,US,0,147773,United States of America,174
+3411,US,0,59968,United States of America,1309
+3412,US,0,284293,United States of America,2230
+3413,US,0,24973,United States of America,215
+3414,US,0,21610,United States of America,2094
+3415,US,0,122081,United States of America,2636
+3416,FR,16,122081,France,2636
+3417,US,0,10987,United States of America,1359
+3418,US,0,747,United States of America,407
+3419,GB,1,747,United Kingdom,407
+3420,FR,16,747,France,407
+3421,US,0,26748,United States of America,1992
+3422,US,0,13090,United States of America,2011
+3423,US,0,192141,United States of America,1678
+3424,US,0,351819,United States of America,2719
+3425,US,0,15745,United States of America,2685
+3426,US,0,13996,United States of America,2243
+3427,US,0,343795,United States of America,2746
+3428,US,0,45658,United States of America,1965
+3429,US,0,16148,United States of America,2753
+3430,US,0,4553,United States of America,2200
+3431,ES,18,4553,Spain,2200
+3432,US,0,245916,United States of America,84
+3433,US,0,27585,United States of America,1442
+3434,US,0,1415,United States of America,169
+3435,NL,17,1415,Netherlands,169
+3436,US,0,313922,United States of America,1310
+3437,US,0,199933,United States of America,1558
+3438,US,0,13685,United States of America,110
+3439,US,0,46838,United States of America,2256
+3440,CA,11,46838,Canada,2256
+3441,US,0,298312,United States of America,1580
+3442,US,0,12498,United States of America,1852
+3443,US,0,1690,United States of America,2775
+3444,US,0,64720,United States of America,2633
+3445,US,0,16337,United States of America,2745
+3446,US,0,11577,United States of America,1574
+3447,US,0,77987,United States of America,1846
+3448,FR,16,77987,France,1846
+3449,SE,29,77987,Sweden,1846
+3450,DK,37,77987,Denmark,1846
+3451,TH,54,77987,Thailand,1846
+3452,US,0,9336,United States of America,583
+3453,US,0,13342,United States of America,2660
+3454,US,0,1429,United States of America,730
+3455,US,0,9303,United States of America,569
+3456,US,0,641,United States of America,340
+3457,US,0,252680,United States of America,2505
+3458,US,0,141,United States of America,74
+3459,US,0,39800,United States of America,2547
+3460,US,0,36419,United States of America,1659
+3461,US,0,510,United States of America,270
+3462,US,0,10246,United States of America,1071
+3463,CA,11,10246,Canada,1071
+3464,US,0,153,United States of America,81
+3465,JP,13,153,Japan,81
+3466,US,0,703,United States of America,383
+3467,US,0,27191,United States of America,1301
+3468,US,0,1365,United States of America,2827
+3469,US,0,287424,United States of America,384
+3470,CH,41,287424,Switzerland,384
+3471,US,0,451,United States of America,2134
+3472,US,0,241251,United States of America,2210
+3473,US,0,39781,United States of America,2539
+3474,US,0,8337,United States of America,484
+3475,US,0,85350,United States of America,1822
+3476,US,0,13408,United States of America,2093
+3477,US,0,9809,United States of America,826
+3478,US,0,5,United States of America,15
+3479,US,0,11013,United States of America,1368
+3480,US,0,10132,United States of America,1002
+3481,CA,11,10132,Canada,1002
+3482,US,0,8141,United States of America,2818
+3483,US,0,48572,United States of America,2696
+3484,US,0,14517,United States of America,2364
+3485,GB,1,14517,United Kingdom,2364
+3486,US,0,157847,United States of America,1136
+3487,US,0,48309,United States of America,2625
+3488,US,0,44945,United States of America,2680
+3489,US,0,52015,United States of America,1379
+3490,US,0,60422,United States of America,1472
+3491,US,0,10774,United States of America,1293
+3492,US,0,29715,United States of America,2074
+3493,US,0,34769,United States of America,1039
+3494,GB,1,34769,United Kingdom,1039
+3495,CA,11,34769,Canada,1039
+3496,US,0,3116,United States of America,1487
+3497,US,0,813,United States of America,451
+3498,US,0,10634,United States of America,2399
+3499,US,0,9516,United States of America,676
+3500,US,0,16288,United States of America,2808
+3501,US,0,23330,United States of America,2513
+3502,US,0,26268,United States of America,1016
+3503,US,0,310131,United States of America,2544
+3504,CA,11,310131,Canada,2544
+3505,US,0,11363,United States of America,2137
+3506,US,0,3033,United States of America,1454
+3507,GB,1,3033,United Kingdom,1454
+3508,US,0,765,United States of America,416
+3509,US,0,14256,United States of America,2307
+3510,US,0,12535,United States of America,1861
+3511,US,0,50839,United States of America,1463
+3512,US,0,13973,United States of America,2238
+3513,US,0,244786,United States of America,2585
+3514,US,0,301748,United States of America,23
+3515,US,0,55347,United States of America,2338
+3516,US,0,8469,United States of America,850
+3517,US,0,658,United States of America,1750
+3518,GB,1,658,United Kingdom,1750
+3519,US,0,1430,United States of America,731
+3520,US,0,10014,United States of America,935
+3521,US,0,158015,United States of America,2293
+3522,FR,16,158015,France,2293
+3523,US,0,82507,United States of America,1622
+3524,US,0,261,United States of America,150
+3525,US,0,1685,United States of America,990
+3526,US,0,20737,United States of America,1866
+3527,CA,11,20737,Canada,1866
+3528,US,0,10225,United States of America,1060
+3529,US,0,5854,United States of America,2250
+3530,US,0,5780,United States of America,2237
+3531,US,0,292,United States of America,898
+3532,US,0,821,United States of America,2028
+3533,DE,9,821,Germany,2028
+3534,US,0,132344,United States of America,2699
+3535,GR,51,132344,Greece,2699
+3536,US,0,18892,United States of America,1267
+3537,US,0,549,United States of America,286
+3538,US,0,10683,United States of America,1257
+3539,US,0,246403,United States of America,342
+3540,US,0,84174,United States of America,1159
+3541,US,0,38541,United States of America,2233
+3542,DE,9,38541,Germany,2233
+3543,CA,11,38541,Canada,2233
+3544,US,0,234212,United States of America,1890
+3545,GB,1,234212,United Kingdom,1890
+3546,US,0,26039,United States of America,1683
+3547,US,0,10476,United States of America,1171
+3548,US,0,3034,United States of America,1455
+3549,US,0,9730,United States of America,536
+3550,US,0,872,United States of America,485
+3551,US,0,139038,United States of America,2754
+3552,US,0,10676,United States of America,1254
+3553,US,0,24748,United States of America,534
+3554,US,0,401,United States of America,219
+3555,US,0,76,United States of America,35
+3556,CH,41,76,Switzerland,35
+3557,AT,53,76,Austria,35
+3558,US,0,84329,United States of America,1224
+3559,US,0,157386,United States of America,1151
+3560,US,0,46849,United States of America,2260
+3561,US,0,20764,United States of America,526
+3562,MX,33,20764,Mexico,526
+3563,US,0,45132,United States of America,1816
+3564,US,0,49471,United States of America,989
+3565,US,0,7512,United States of America,2675
+3566,US,0,11561,United States of America,1571
+3567,US,0,595,United States of America,310
+3568,US,0,226,United States of America,130
+3569,US,0,990,United States of America,527
+3570,US,0,80,United States of America,39
+3571,US,0,39013,United States of America,2347
+3572,US,0,44639,United States of America,1667
+3573,US,0,301351,United States of America,2252
+3574,GB,1,301351,United Kingdom,2252
+3575,FR,16,301351,France,2252
+3576,US,0,7873,United States of America,2738
+3577,US,0,331190,United States of America,1959
+3578,US,0,15186,United States of America,2532
+3579,US,0,250124,United States of America,2706
+3580,US,0,273899,United States of America,1630
+3581,US,0,13075,United States of America,2009
+3582,US,0,11302,United States of America,1484
+3583,US,0,26388,United States of America,927
+3584,FR,16,26388,France,927
+3585,ES,18,26388,Spain,927
+3586,US,0,935,United States of America,510
+3587,GB,1,935,United Kingdom,510
+3588,US,0,1705,United States of America,1064
+3589,US,0,4929,United States of America,2029
+3590,US,0,10894,United States of America,1336
+3591,US,0,43947,United States of America,1430
+3592,US,0,24066,United States of America,2708
+3593,US,0,592,United States of America,308
+3594,US,0,11690,United States of America,1610
+3595,US,0,9344,United States of America,587
+3596,US,0,10707,United States of America,1269
+3597,US,0,15647,United States of America,2654
+3598,US,0,49018,United States of America,2791
+3599,CA,11,49018,Canada,2791
+3600,US,0,13820,United States of America,2191
+3601,US,0,17113,United States of America,397
+3602,US,0,129139,United States of America,2352
+3603,US,0,4012,United States of America,1776
+3604,US,0,10972,United States of America,1355
+3605,US,0,1961,United States of America,2722
+3606,US,0,104755,United States of America,2396
+3607,GB,1,104755,United Kingdom,2396
+3608,CA,11,104755,Canada,2396
+3609,US,0,39209,United States of America,2303
+3610,DE,9,39209,Germany,2303
+3611,US,0,23730,United States of America,1488
+3612,US,0,176,United States of America,542
+3613,US,0,39939,United States of America,2572
+3614,US,0,176124,United States of America,1798
+3615,US,0,500,United States of America,263
+3616,US,0,429,United States of America,233
+3617,DE,9,429,Germany,233
+3618,IT,12,429,Italy,233
+3619,ES,18,429,Spain,233
+3620,US,0,7553,United States of America,1869
+3621,US,0,1366,United States of America,694
+3622,US,0,103,United States of America,53
+3623,US,0,10092,United States of America,1527
+3624,US,0,46705,United States of America,1708
+3625,US,0,5722,United States of America,2212
+3626,US,0,113947,United States of America,1682
+3627,US,0,32456,United States of America,2740
+3628,US,0,13508,United States of America,2123
+3629,US,0,13856,United States of America,2198
+3630,US,0,654,United States of America,350
+3631,US,0,91070,United States of America,522
+3632,CA,11,91070,Canada,522
+3633,US,0,2652,United States of America,1319
+3634,US,0,9813,United States of America,2759
+3635,US,0,15708,United States of America,1807
+3636,US,0,84200,United States of America,2155
+3637,US,0,47889,United States of America,1930
+3638,US,0,838,United States of America,2055
+3639,US,0,84332,United States of America,1225
+3640,US,0,7859,United States of America,2734
+3641,US,0,30315,United States of America,2220
+3642,US,0,2056,United States of America,1073
+3643,US,0,14271,United States of America,2311
+3644,US,0,12281,United States of America,1796
+3645,US,0,15624,United States of America,2642
+3646,GB,1,15624,United Kingdom,2642
+3647,US,0,9029,United States of America,463
+3648,US,0,764,United States of America,415
+3649,US,0,103620,United States of America,2613
+3650,FR,16,103620,France,2613
+3651,US,0,11980,United States of America,1694
+3652,US,0,118452,United States of America,1684
+3653,US,0,13282,United States of America,2069
+3654,US,0,2255,United States of America,1160
+3655,US,0,60420,United States of America,1471
+3656,US,0,10218,United States of America,1058
+3657,US,0,39141,United States of America,2370
+3658,US,0,84355,United States of America,1232
+3659,US,0,339408,United States of America,1625
+3660,US,0,473,United States of America,1373
+3661,US,0,242095,United States of America,1915
+3662,US,0,2292,United States of America,1177
+3663,GB,1,49852,United Kingdom,382
+3664,HU,26,49852,Hungary,382
+3665,GB,1,1997,United Kingdom,1696
+3666,FR,16,1997,France,1696
+3667,GB,1,9703,United Kingdom,771
+3668,IT,12,9703,Italy,771
+3669,FR,16,9703,France,771
+3670,TN,38,9703,Tunisia,771
+3671,GB,1,257,United Kingdom,147
+3672,CZ,5,257,Czech Republic,147
+3673,IT,12,257,Italy,147
+3674,FR,16,257,France,147
+3675,GB,1,50359,United Kingdom,619
+3676,GB,1,116149,United Kingdom,744
+3677,GB,1,72197,United Kingdom,2456
+3678,GB,1,4517,United Kingdom,1911
+3679,GB,1,14623,United Kingdom,2388
+3680,FR,16,14623,France,2388
+3681,GB,1,26389,United Kingdom,1333
+3682,FR,16,26389,France,1333
+3683,GB,1,1248,United Kingdom,637
+3684,CZ,5,1248,Czech Republic,637
+3685,IT,12,1248,Italy,637
+3686,FR,16,1248,France,637
+3687,GB,1,18947,United Kingdom,1284
+3688,DE,9,18947,Germany,1284
+3689,FR,16,18947,France,1284
+3690,GB,1,325789,United Kingdom,2359
+3691,GB,1,768,United Kingdom,1942
+3692,CZ,5,768,Czech Republic,1942
+3693,GB,1,9486,United Kingdom,660
+3694,FR,16,9486,France,660
+3695,GB,1,9381,United Kingdom,609
+3696,FR,16,9381,France,609
+3697,GB,1,58233,United Kingdom,494
+3698,CN,10,58233,China,494
+3699,HK,21,58233,Hong Kong,494
+3700,GB,1,7443,United Kingdom,2646
+3701,GB,1,48138,United Kingdom,2576
+3702,DE,9,48138,Germany,2576
+3703,FR,16,48138,France,2576
+3704,GB,1,19898,United Kingdom,1618
+3705,DE,9,19898,Germany,1618
+3706,GB,1,14324,United Kingdom,2322
+3707,IT,12,14324,Italy,2322
+3708,FR,16,14324,France,2322
+3709,LU,45,14324,Luxembourg,2322
+3710,GB,1,96721,United Kingdom,2444
+3711,DE,9,96721,Germany,2444
+3712,GB,1,423,United Kingdom,228
+3713,PL,6,423,Poland,228
+3714,DE,9,423,Germany,228
+3715,FR,16,423,France,228
+3716,GB,1,14442,United Kingdom,2350
+3717,IE,24,14442,Ireland,2350
+3718,GB,1,14175,United Kingdom,2285
+3719,GB,1,11823,United Kingdom,1650
+3720,FR,16,11823,France,1650
+3721,GB,1,192136,United Kingdom,1677
+3722,ZA,30,192136,South Africa,1677
+3723,GB,1,11141,United Kingdom,1412
+3724,DE,9,11141,Germany,1412
+3725,IE,24,11141,Ireland,1412
+3726,GB,1,8054,United Kingdom,2630
+3727,CA,11,8054,Canada,2630
+3728,FR,16,8054,France,2630
+3729,GB,1,13092,United Kingdom,1986
+3730,GB,1,1259,United Kingdom,644
+3731,GB,1,61891,United Kingdom,1920
+3732,DE,9,61891,Germany,1920
+3733,GB,1,1613,United Kingdom,823
+3734,CA,11,1613,Canada,823
+3735,GB,1,746,United Kingdom,2298
+3736,CN,10,746,China,2298
+3737,IT,12,746,Italy,2298
+3738,FR,16,746,France,2298
+3739,GB,1,1268,United Kingdom,650
+3740,DE,9,1268,Germany,650
+3741,FR,16,1268,France,650
+3742,GB,1,6116,United Kingdom,2318
+3743,GB,1,1770,United Kingdom,906
+3744,IE,24,1770,Ireland,906
+3745,GB,1,26672,United Kingdom,2371
+3746,GB,1,22215,United Kingdom,2247
+3747,DE,9,22215,Germany,2247
+3748,FR,16,22215,France,2247
+3749,GB,1,783,United Kingdom,1966
+3750,IN,20,783,India,1966
+3751,GB,1,204922,United Kingdom,400
+3752,FR,16,204922,France,400
+3753,SE,29,204922,Sweden,400
+3754,GB,1,1946,United Kingdom,2162
+3755,CA,11,1946,Canada,2162
+3756,FR,16,1946,France,2162
+3757,GB,1,107985,United Kingdom,757
+3758,GB,1,48231,United Kingdom,2597
+3759,DE,9,48231,Germany,2597
+3760,CA,11,48231,Canada,2597
+3761,CH,41,48231,Switzerland,2597
+3762,GB,1,16608,United Kingdom,129
+3763,AU,15,16608,Australia,129
+3764,GB,1,13809,United Kingdom,2186
+3765,GB,1,127560,United Kingdom,1960
+3766,AU,15,127560,Australia,1960
+3767,GB,1,9389,United Kingdom,615
+3768,FR,16,9389,France,615
+3769,LU,45,9389,Luxembourg,615
+3770,GB,1,4638,United Kingdom,1951
+3771,GB,1,68727,United Kingdom,1516
+3772,FR,16,68727,France,1516
+3773,GB,1,45269,United Kingdom,1854
+3774,GB,1,205596,United Kingdom,2219
+3775,GB,1,65086,United Kingdom,2717
+3776,CA,11,65086,Canada,2717
+3777,SE,29,65086,Sweden,2717
+3778,GB,1,266856,United Kingdom,1969
+3779,GB,1,1562,United Kingdom,603
+3780,ES,18,1562,Spain,603
+3781,GB,1,6687,United Kingdom,2464
+3782,DE,9,6687,Germany,2464
+3783,ES,18,6687,Spain,2464
+3784,LT,52,6687,Lithuania,2464
+3785,GB,1,23759,United Kingdom,2632
+3786,FR,16,23759,France,2632
+3787,GB,1,1951,United Kingdom,1011
+3788,DE,9,1951,Germany,1011
+3789,IT,12,1951,Italy,1011
+3790,FR,16,1951,France,1011
+3791,NL,17,1951,Netherlands,1011
+3792,SE,29,1951,Sweden,1011
+3793,DK,37,1951,Denmark,1011
+3794,GB,1,71688,United Kingdom,2328
+3795,FR,16,71688,France,2328
+3796,GB,1,10368,United Kingdom,1128
+3797,IT,12,10368,Italy,1128
+3798,GB,1,86838,United Kingdom,2024
+3799,GB,1,264660,United Kingdom,1270
+3800,GB,1,59678,United Kingdom,1192
+3801,GB,1,36819,United Kingdom,1786
+3802,GB,1,205220,United Kingdom,226
+3803,GB,1,121826,United Kingdom,2565
+3804,GB,1,30973,United Kingdom,2377
+3805,CA,11,30973,Canada,2377
+3806,GB,1,75900,United Kingdom,1126
+3807,GB,1,14283,United Kingdom,2314
+3808,CA,11,14283,Canada,2314
+3809,IT,12,14283,Italy,2314
+3810,GB,1,7942,United Kingdom,2751
+3811,GB,1,12779,United Kingdom,1934
+3812,IT,12,12779,Italy,1934
+3813,GB,1,667,United Kingdom,1772
+3814,GB,1,29963,United Kingdom,2140
+3815,AU,15,29963,Australia,2140
+3816,FR,16,29963,France,2140
+3817,GB,1,1116,United Kingdom,571
+3818,DE,9,1116,Germany,571
+3819,IT,12,1116,Italy,571
+3820,FR,16,1116,France,571
+3821,ES,18,1116,Spain,571
+3822,BE,23,1116,Belgium,571
+3823,IE,24,1116,Ireland,571
+3824,CH,41,1116,Switzerland,571
+3825,GB,1,170,United Kingdom,94
+3826,GB,1,44009,United Kingdom,1461
+3827,GB,1,44147,United Kingdom,1513
+3828,FR,16,44147,France,1513
+3829,GB,1,302,United Kingdom,170
+3830,FR,16,302,France,170
+3831,GB,1,73873,United Kingdom,76
+3832,IE,24,73873,Ireland,76
+3833,GB,1,25941,United Kingdom,1788
+3834,GB,1,253,United Kingdom,144
+3835,GB,1,13006,United Kingdom,1983
+3836,GB,1,76025,United Kingdom,1182
+3837,GB,1,4836,United Kingdom,1990
+3838,GB,1,9443,United Kingdom,2673
+3839,GB,1,230266,United Kingdom,495
+3840,NO,28,230266,Norway,495
+3841,GB,1,11843,United Kingdom,2163
+3842,GB,1,71,United Kingdom,31
+3843,FR,16,71,France,31
+3844,GB,1,17339,United Kingdom,519
+3845,GB,1,17431,United Kingdom,538
+3846,GB,1,77949,United Kingdom,1829
+3847,GB,1,712,United Kingdom,390
+3848,GB,1,116613,United Kingdom,993
+3849,GB,1,11386,United Kingdom,1518
+3850,JP,13,11386,Japan,1518
+3851,IE,24,11386,Ireland,1518
+3852,GB,1,512,United Kingdom,272
+3853,GB,1,25719,United Kingdom,2491
+3854,GB,1,874,United Kingdom,487
+3855,GB,1,37495,United Kingdom,1973
+3856,GB,1,8618,United Kingdom,231
+3857,GB,1,9427,United Kingdom,630
+3858,GB,1,627,United Kingdom,333
+3859,GB,1,11257,United Kingdom,1467
+3860,GB,1,24469,United Kingdom,2802
+3861,NL,17,24469,Netherlands,2802
+3862,GB,1,657,United Kingdom,1747
+3863,GB,1,100,United Kingdom,51
+3864,GB,1,5769,United Kingdom,2232
+3865,GB,1,646,United Kingdom,344
+3866,JM,2,646,Jamaica,344
+3867,GB,1,43933,United Kingdom,1424
+3868,GB,1,762,United Kingdom,1931
+3869,GB,1,11240,United Kingdom,1460
+3870,GB,1,18533,United Kingdom,1118
+3871,PL,6,72113,Poland,2436
+3872,DE,9,72113,Germany,2436
+3873,FR,16,72113,France,2436
+3874,ES,18,72113,Spain,2436
+3875,NZ,8,46528,New Zealand,2175
+3876,KR,42,46528,South Korea,2175
+3877,NZ,8,713,New Zealand,391
+3878,AU,15,713,Australia,391
+3879,FR,16,713,France,391
+3880,NZ,8,1024,New Zealand,533
+3881,NZ,8,1088,New Zealand,2414
+3882,DE,9,1427,Germany,728
+3883,FR,16,1427,France,728
+3884,ES,18,1427,Spain,728
+3885,DE,9,13405,Germany,2092
+3886,CN,10,13405,China,2092
+3887,AU,15,13405,Australia,2092
+3888,DE,9,613,Germany,323
+3889,IT,12,613,Italy,323
+3890,AT,53,613,Austria,323
+3891,DE,9,62215,Germany,2006
+3892,FR,16,62215,France,2006
+3893,SE,29,62215,Sweden,2006
+3894,DK,37,62215,Denmark,2006
+3895,DE,9,338,Germany,185
+3896,DE,9,323677,Germany,1821
+3897,CA,11,323677,Canada,1821
+3898,DE,9,31175,Germany,2442
+3899,DE,9,391,Germany,211
+3900,IT,12,391,Italy,211
+3901,ES,18,391,Spain,211
+3902,CN,10,76758,China,1453
+3903,HK,21,76758,Hong Kong,1453
+3904,CN,10,300168,China,1530
+3905,HK,21,300168,Hong Kong,1530
+3906,CN,10,79,China,251
+3907,CN,10,76349,China,2603
+3908,HK,21,76349,Hong Kong,2603
+3909,CN,10,287948,China,2631
+3910,FR,16,287948,France,2631
+3911,BE,23,287948,Belgium,2631
+3912,CN,10,1989,China,1030
+3913,FR,16,1989,France,1030
+3914,HK,21,1989,Hong Kong,1030
+3915,CN,10,58882,China,2543
+3916,CA,11,157841,Canada,1133
+3917,FR,16,157841,France,1133
+3918,CA,11,82654,Canada,401
+3919,CA,11,46829,Canada,2253
+3920,IT,12,46829,Italy,2253
+3921,CA,11,254473,Canada,275
+3922,FR,16,254473,France,275
+3923,CA,11,8338,Canada,77
+3924,JP,13,8338,Japan,77
+3925,BR,43,8338,Brazil,77
+3926,CA,11,61012,Canada,1662
+3927,FR,16,61012,France,1662
+3928,CA,11,132232,Canada,2333
+3929,ES,18,132232,Spain,2333
+3930,CA,11,264644,Canada,1262
+3931,IE,24,264644,Ireland,1262
+3932,CA,11,45324,Canada,1870
+3933,CA,11,167073,Canada,1531
+3934,IE,24,167073,Ireland,1531
+3935,CA,11,15049,Canada,105
+3936,CA,11,10288,Canada,1879
+3937,CA,11,837,Canada,2054
+3938,CA,11,10217,Canada,1057
+3939,CA,11,431,Canada,234
+3940,IT,12,152742,Italy,2111
+3941,IT,12,33157,Italy,210
+3942,RU,31,33157,Russia,210
+3943,IT,12,1913,Italy,988
+3944,FR,16,1913,France,988
+3945,ES,18,1913,Spain,988
+3946,IT,12,54580,Italy,2147
+3947,FR,16,54580,France,2147
+3948,ES,18,54580,Spain,2147
+3949,JP,13,12429,Japan,1836
+3950,AU,15,65759,Australia,128
+3951,AU,15,9836,Australia,843
+3952,AU,15,9447,Australia,642
+3953,AU,15,33870,Australia,566
+3954,AU,15,9355,Australia,593
+3955,AU,15,10622,Australia,1229
+3956,HK,21,10622,Hong Kong,1229
+3957,AU,15,24266,Australia,2741
+3958,AU,15,111190,Australia,1963
+3959,FR,16,111190,France,1963
+3960,AU,15,8810,Australia,327
+3961,AU,15,9659,Australia,748
+3962,FR,16,18,France,9
+3963,FR,16,9992,France,922
+3964,FR,16,309809,France,2466
+3965,FR,16,10047,France,1408
+3966,FR,16,82675,France,411
+3967,FR,16,62835,France,2331
+3968,FR,16,622,France,331
+3969,ES,18,622,Spain,331
+3970,PT,46,622,Portugal,331
+3971,FR,16,9280,France,556
+3972,CH,41,9280,Switzerland,556
+3973,FR,16,48034,France,2555
+3974,FR,16,81796,France,2797
+3975,FR,16,255343,France,710
+3976,ES,18,255343,Spain,710
+3977,BE,23,255343,Belgium,710
+3978,FR,16,74643,France,502
+3979,BE,23,74643,Belgium,502
+3980,FR,16,2266,France,1163
+3981,FR,16,126319,France,1590
+3982,BE,23,126319,Belgium,1590
+3983,LU,45,126319,Luxembourg,1590
+3984,FR,16,250349,France,1935
+3985,FR,16,46332,France,2136
+3986,FR,16,1667,France,851
+3987,FR,16,10656,France,1245
+3988,NL,17,62630,Netherlands,2567
+3989,BE,23,62630,Belgium,2567
+3990,ES,18,26428,Spain,1400
+3991,ES,18,13495,Spain,2118
+3992,ES,18,219,Spain,126
+3993,HK,21,33542,Hong Kong,2742
+3994,IE,24,67913,Ireland,1210
+3995,ZA,30,172391,South Africa,193
+3996,MX,33,96399,Mexico,2357
+3997,KR,42,10253,South Korea,1076
+3998,FJ,55,13888,Fiji,2209

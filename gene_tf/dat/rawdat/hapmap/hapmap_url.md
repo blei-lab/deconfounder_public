@@ -1,0 +1,1 @@
+https://github.com/mimno/admixture-ppc/tree/master/hapmap3-files

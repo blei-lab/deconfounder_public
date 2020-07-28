@@ -1,10 +1,15 @@
 rm(list = ls())
 
-rawdir = "./smoking_R"
+
+rawdir = "smoking_R"
 
 setwd(paste(c(rawdir, "src"), collapse="/"))
 
 dir.create(paste(c(rawdir, "res/factorfit"), collapse="/"))
+
+
+# Please see README.md for a note on fitting and selecting the factor
+# models.
 
 
 ###########################################################
@@ -27,7 +32,7 @@ randseed = as.integer(args[7])
 # factor_model_dstd = 0.1
 # factor_model_Zstd = 2.0
 # simset = "indep"
-# dataseed = 20133224
+# dataseed = 825172439
 # randseed = 20144133
 # print(randseed)
 
@@ -65,6 +70,7 @@ rstan_options(auto_write = TRUE)
 source("utils.R")
 
 # randseed = as.integer(as.numeric(Sys.time()))
+# randseed = 123
 set.seed(randseed)
 print(randseed)
 
@@ -181,12 +187,10 @@ check_lps = rbind(all_rep_lp, all_vad_lp)
 
 Zhat = la$Z
 Zhat_mean = apply(Zhat,c(2,3),mean)
-print(cor(cbind(A, Zhat_mean), C))
 print(cor(A, Zhat_mean))
 
 Ahat = la$X_pred
 Ahat_mean = apply(Ahat,c(2,3),mean)
-print(cor(cbind(A, Ahat_mean), C))
 print(cor(A, Ahat_mean))
 
 ps = la$ps # propensity score

@@ -17,7 +17,11 @@ holdout_data = function(X, holdout_portion=0.25){
     # we hold out entries by setting the heldout entries to be zero
     # moreover, we will ignore the likelihood of heldout entries in
     # fitting factor models. so setting heldout entries as zero shall
-    # not bias model fits.
+    # not bias model fits. 
+
+    # Acknowledgment: we thank Justin Grimmer, Dean Knox, and Brandon
+    # Stewart for pointing out a bug in a previous version of the
+    # code.
 
     x_train = (1-holdout_mask) * X
     x_vad = holdout_mask * X
@@ -43,8 +47,12 @@ compute_beta_acc <- function(beta_fit, betas){
 	# var = Var(\hat{\beta}) 
 	# mse = E[(\hat{\beta} - beta)^2]
 
+	# importantly, the expectations are taken over the posterior
+	# distribution, as opposed to randomly drawn datasets.
+
 	# these definitions follow the bias / variance / mse of posterior
-	# samples (Korattikara et al., 2014; Chen et al., 2015).
+	# samples (Korattikara et al., 2014; Chen et al., 2015; Gustafson,
+	# 2015).
 
 	# Korattikara, A., Chen, Y., & Welling, M. (2014). Austerity in
 	# MCMC land: Cutting the Metropolis-Hastings budget. In
@@ -54,6 +62,14 @@ compute_beta_acc <- function(beta_fit, betas){
 	# stochastic gradient MCMC algorithms with high-order integrators.
 	# In Advances in Neural Information Processing Systems (pp.
 	# 2278-2286).
+
+	# Gustafson, P. (2015). Bayesian inference for partially
+	# identified models: Exploring the limits of limited data (Vol.
+	# 140). CRC Press.
+
+	# Acknowledgment: we thank Justin Grimmer, Dean Knox, and Brandon
+    # Stewart for pointing out potential confusions over the
+    # definitions of these metrics.
 
 	bias2 = sum((apply(beta_fit, 2, mean) - betas)^2)
 	var = sum(apply(beta_fit, 2, var))
@@ -90,7 +106,7 @@ load_simdat <- function(varname, simdatdir, randseed, simset){
 }
 
 sim_conf_data <- function(A, C, dir, family=gaussian(), 
-	sd=1.0, confscale=2.0, seed=0){
+	sd=1.0, confscale=2.0){
 
 	# family: gaussian() or binomial() 
 	# simcount: counts of this is xxth simulated dataset

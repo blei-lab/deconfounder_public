@@ -1,10 +1,14 @@
 rm(list = ls())
 
-rawdir = "./smoking_R"
+rawdir = "smoking_R"
 
 setwd(paste(c(rawdir, "src"), collapse="/"))
 
 dir.create(paste(c(rawdir, "res/factorfit"), collapse="/"))
+
+
+# Please see README.md for a note on fitting and selecting the factor
+# models.
 
 
 ###########################################################
@@ -28,20 +32,21 @@ outcome_model = args[11]
 
 # factor_model = "quadratic"
 # factor_model_K = 1
-# estctrl = "Actrl"
-# trial = 49
+# estctrl = "Zcovctrl"
+# trial = 30
 # simset = "indep"
-# dataseed = 20133224
-# factorseed = 20144133
-# randseed = 20200606
+# dataseed = 347570145
+# factorseed = 36127605
+# randseed = 431966185
 # algorithm = "meanfield"
-# priorsp = "normal"
+# priorsp = "cauchy"
 # outcome_model = "linear"
 
+for (trial in 1:100){
 
 # number of post sample draws 
 maxsmps = 998
-npostsmps = 5 
+npostsmps = 10 
 # can increase the number of posterior samples especially if needs to
 # compute credible intervals
 
@@ -87,7 +92,7 @@ rstan_options(auto_write = TRUE)
 
 source("utils.R")
 
-randseed = as.integer(as.numeric(Sys.time()))
+# randseed = as.integer(as.numeric(Sys.time()))
 set.seed(randseed)
 print(randseed)
 
@@ -119,7 +124,12 @@ if (priorsp=="normal"){
 	prior = normal()
 } else if (priorsp=="horseshoe"){
 	prior = hs_plus()
+} else if (priorsp=="cauchy"){
+	prior = cauchy(0, 10)
 }
+
+prior_intercept = cauchy(0, 10)
+prior_aux = exponential(1, autoscale=TRUE)
 
 if(outcome_model=="linear"){
 	family = gaussian()
@@ -142,8 +152,9 @@ fitfactordir = paste(c(rawdir, "res", "factorfit", simset,
 
 if (estctrl=="nctrl"){
 	nctrlfit = stan_glm.fit(cbind(rep(1,N), A), 
-		simY, algorithm=algorithm, prior=prior, family=family, 
-		QR=TRUE,prior_intercept = normal(),
+		simY, algorithm=algorithm, 
+		QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+		prior_aux=prior_aux, family=family,
 		output_samples=npostsmps)
 
 	la = extract(nctrlfit)
@@ -154,20 +165,6 @@ if (estctrl=="nctrl"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	nctrl = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-	
-	# for sanity check
-	# fit1 = glm(simY~A, family=family)
-	# summary(fit1)
-
-	# freqnctrl_bias2 = sum((summary(fit1)$coefficients[2:(2+D-1),1] - betas)^2)
-	# freqnctrl_var = sum((summary(fit1)$coefficients[2:(2+D-1),2])^2)
-	# freqnctrl_mse = freqnctrl_bias2 + freqnctrl_var
-	# freqnctrl = c(freqnctrl_bias2, freqnctrl_var, freqnctrl_mse)	
-
-	# freqnctrl are not used for reporting, but are used only to cross
-	# check if Bayesian regression has been properly fitted
-
-	# nctrlres = data.frame(rbind(nctrl, freqnctrl))
 	nctrlres = data.frame(rbind(nctrl))
 	colnames(nctrlres) = c("bias2", "var", "mse", "cov1", "cov2")
 	print(nctrlres)
@@ -185,8 +182,9 @@ if (estctrl=="nctrl"){
 
 if (estctrl=="oracle"){
 	oraclefit = stan_glm.fit(cbind(rep(1,N), A, C), 
-		simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-		prior_intercept = normal(),
+		simY, algorithm=algorithm, 
+		QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+		prior_aux=prior_aux, family=family,
 		output_samples=npostsmps)
 
 	la = extract(oraclefit)
@@ -197,18 +195,6 @@ if (estctrl=="oracle"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	oracle = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-
-	# for sanity check
-	# fit2 = glm(simY~A+C, family=family)
-	# summary(fit2)
-	# freqoracle_bias2 = sum((summary(fit2)$coefficients[2:(2+D-1),1] - betas)^2)
-	# freqoracle_var = sum((summary(fit2)$coefficients[2:(2+D-1),2])^2)
-	# freqoracle_mse = freqoracle_bias2 + freqoracle_var
-	# freqoracle = c(freqoracle_bias2, freqoracle_var, freqoracle_mse)
-
-	
-	# oracleres = data.frame(rbind(oracle, freqoracle))
-
 	oracleres = data.frame(rbind(oracle))
 	colnames(oracleres) = c("bias2", "var", "mse", "cov1", "cov2")
 	print(oracleres)
@@ -234,14 +220,16 @@ if (estctrl=="Zctrl"){
 			sep=",", header=TRUE))
 
 		tryCatch({Zctrlfit = stan_glm.fit(cbind(rep(1,N), A, Zhat), 
-					simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-					prior_intercept = normal(),
+					simY, algorithm=algorithm, 
+					QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+					prior_aux=prior_aux, family=family,
 					output_samples=100)},
 		error=function(e){
 			cat("ERROR :",conditionMessage(e), "\n");
 			Zctrlfit = stan_glm.fit(cbind(rep(1,N), A, Zhat), 
-			simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-			prior_intercept = normal(),
+			simY, algorithm=algorithm, 
+			QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+			prior_aux=prior_aux, family=family,
 			output_samples=100);
 		})
 
@@ -255,25 +243,6 @@ if (estctrl=="Zctrl"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	Zctrl = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-
-	# freq_beta_fit = matrix(default_val, npostsmps, D)
-	# freq_beta_var = matrix(default_val, npostsmps, D)
-	# for (j in 1:npostsmps){
-	# 	filenameZ = paste(c(dataseed, factorseed, "Zhat", smps[j], ".csv"), collapse="_")
-	# 	Zhat = as.matrix(read.table(paste(c(fitfactordir, filenameZ), collapse="/"), 
-	# 		sep=",", header=TRUE))
-	# 	fit3 = glm(simY~A+Zhat, family=family)
-	# 	summary(fit3)
-	# 	freq_beta_fit[j,] = summary(fit3)$coefficients[2:(2+D-1),1]
-	# 	freq_beta_var[j,] = (summary(fit3)$coefficients[2:(2+D-1),2])^2
-	# }
-	# freqZctrl_bias2 = sum((apply(freq_beta_fit, 2, mean) - betas)^2)
-	# freqZctrl_var = sum(apply(freq_beta_fit, 2, var)) + sum(apply(freq_beta_var, 2, mean))
-	# freqZctrl_mse = freqZctrl_bias2 + freqZctrl_var
-	# freqZctrl = c(freqZctrl_bias2, freqZctrl_var, freqZctrl_mse)
-
-	# Zctrlres = data.frame(rbind(Zctrl, freqZctrl))
-
 	Zctrlres = data.frame(rbind(Zctrl))
 	colnames(Zctrlres) = c("bias2", "var", "mse", "cov1", "cov2")
 
@@ -290,7 +259,7 @@ if (estctrl=="Zctrl"){
 ###########################################################
 # adjust for reconstructed causes
 ###########################################################
-# better use prior = hs_plus(slab_scale=0.5) for Ahat
+# prior = hs_plus(slab_scale=0.5)
 # prior = hs_plus()
 
 if (estctrl=="Actrl"){
@@ -301,14 +270,16 @@ if (estctrl=="Actrl"){
 		Ahat = as.matrix(read.table(paste(c(fitfactordir, filenameA), collapse="/"), 
 			sep=",", header=TRUE))
 		tryCatch({Actrlfit = stan_glm.fit(cbind(rep(1,N), A, Ahat), 
-				simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-					prior_intercept = normal(),
-					output_samples=100)},
+				simY, algorithm=algorithm, 
+				QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+				prior_aux=prior_aux, family=family,
+				output_samples=100)},
 		error=function(e){
 			cat("ERROR :",conditionMessage(e), "\n");
 			Actrlfit = stan_glm.fit(cbind(rep(1,N), A, Ahat), 
-			simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-			prior_intercept = normal(),
+			simY, algorithm=algorithm, 
+			QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+			prior_aux=prior_aux, family=family,
 			output_samples=100);
 		})
 		la = extract(Actrlfit)
@@ -320,27 +291,6 @@ if (estctrl=="Actrl"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	Actrl = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-
-
-	# freq_beta_fit = matrix(default_val, npostsmps, D)
-	# freq_beta_var = matrix(default_val, npostsmps, D)
-	# for (j in 1:npostsmps){
-	# 	filenameA = paste(c(dataseed, factorseed, "Ahat", smps[j], ".csv"), collapse="_")
-	# 	Ahat = as.matrix(read.table(paste(c(fitfactordir, filenameA), collapse="/"), 
-	# 		sep=",", header=TRUE))
-	# 	Ares = A - Ahat
-	# 	fit4 = glm(simY~Ares, family=family)
-	# 	summary(fit4)
-	# 	freq_beta_fit[j,] = summary(fit4)$coefficients[2:(2+D-1),1]
-	# 	freq_beta_var[j,] = (summary(fit4)$coefficients[2:(2+D-1),2])^2
-	# }
-	# freqActrl_bias2 = sum((apply(freq_beta_fit, 2, mean) - betas)^2)
-	# freqActrl_var = sum(apply(freq_beta_fit, 2, var)) + sum(apply(freq_beta_var, 2, mean))
-	# freqActrl_mse = freqActrl_bias2 + freqActrl_var
-	# freqActrl = c(freqActrl_bias2, freqActrl_var, freqActrl_mse)
-
-	# Actrlres = data.frame(rbind(Actrl, freqActrl))
-
 	Actrlres = data.frame(rbind(Actrl))
 	colnames(Actrlres) = c("bias2", "var", "mse", "cov1", "cov2")
 
@@ -366,14 +316,16 @@ if (estctrl=="Zcovctrl"){
 			sep=",", header=TRUE))
 
 		tryCatch({Zcovctrlfit = stan_glm.fit(cbind(rep(1,N), A, Zhat, cov), 
-					simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family,
-					prior_intercept = normal(),
+					simY, algorithm=algorithm, 
+					QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+					prior_aux=prior_aux, family=family,
 					output_samples=100)},
 		error=function(e){
 			cat("ERROR :",conditionMessage(e), "\n");
 			Zcovctrlfit = stan_glm.fit(cbind(rep(1,N), A, Zhat, cov), 
-			simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family,
-			prior_intercept = normal(),
+			simY, algorithm=algorithm, 
+			QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+			prior_aux=prior_aux, family=family,
 			output_samples=100);
 		})
 		la = extract(Zcovctrlfit)
@@ -385,25 +337,6 @@ if (estctrl=="Zcovctrl"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	Zcovctrl = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-
-	# freq_beta_fit = matrix(default_val, npostsmps, D)
-	# freq_beta_var = matrix(default_val, npostsmps, D)
-	# for (j in 1:npostsmps){
-	# 	filenameZ = paste(c(dataseed, factorseed, "Zhat", smps[j], ".csv"), collapse="_")
-	# 	Zhat = as.matrix(read.table(paste(c(fitfactordir, filenameZ), collapse="/"), 
-	# 		sep=",", header=TRUE))
-	# 	fit3 = glm(simY~A+Zhat+cov, family=family)
-	# 	summary(fit3)
-	# 	freq_beta_fit[j,] = summary(fit3)$coefficients[2:(2+D-1),1]
-	# 	freq_beta_var[j,] = (summary(fit3)$coefficients[2:(2+D-1),2])^2
-	# }
-	# freqZcovctrl_bias2 = sum((apply(freq_beta_fit, 2, mean) - betas)^2)
-	# freqZcovctrl_var = sum(apply(freq_beta_fit, 2, var)) + sum(apply(freq_beta_var, 2, mean))
-	# freqZcovctrl_mse = freqZcovctrl_bias2 + freqZcovctrl_var
-	# freqZcovctrl = c(freqZcovctrl_bias2, freqZcovctrl_var, freqZcovctrl_mse)
-
-	# Zcovctrlres = data.frame(rbind(Zcovctrl, freqZcovctrl))
-
 	Zcovctrlres = data.frame(rbind(Zcovctrl))
 	colnames(Zcovctrlres) = c("bias2", "var", "mse", "cov1", "cov2")
 	print(Zcovctrlres)
@@ -430,15 +363,17 @@ if (estctrl=="Acovctrl"){
 		filenameA = paste(c(dataseed, factorseed, "Ahat", smps[j], ".csv"), collapse="_")
 		Ahat = as.matrix(read.table(paste(c(fitfactordir, filenameA), collapse="/"), 
 			sep=",", header=TRUE))
-		tryCatch({Acovctrlfit = stan_glm.fit(cbind(rep(1,N), A-Ahat, cov), 
-				simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-					prior_intercept = normal(),
-					output_samples=100)},
+		tryCatch({Acovctrlfit = stan_glm.fit(cbind(rep(1,N), A, Ahat, cov), 
+				simY, algorithm=algorithm, 
+				QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+				prior_aux=prior_aux, family=family,
+				output_samples=100)},
 		error=function(e){
 			cat("ERROR :",conditionMessage(e), "\n");
-			Acovctrlfit = stan_glm.fit(cbind(rep(1,N), A-Ahat, cov), 
-			simY, algorithm=algorithm, QR=TRUE, prior=prior, family=family, 
-			prior_intercept = normal(),
+			Acovctrlfit = stan_glm.fit(cbind(rep(1,N), A, Ahat, cov), 
+			simY, algorithm=algorithm, 
+			QR=TRUE, prior=prior, prior_intercept=prior_intercept, 
+			prior_aux=prior_aux, family=family,
 			output_samples=100);
 		})
 		la = extract(Acovctrlfit)
@@ -450,26 +385,6 @@ if (estctrl=="Acovctrl"){
 	cov_1 = (betas[1] < credible_int_1[2]) & (betas[1] > credible_int_1[1])
 	cov_2 = (betas[2] < credible_int_2[2]) & (betas[2] > credible_int_2[1])
 	Acovctrl = c(beta_fit_acc$bias2, beta_fit_acc$var, beta_fit_acc$mse, cov_1, cov_2)
-
-
-	# freq_beta_fit = matrix(default_val, npostsmps, D)
-	# freq_beta_var = matrix(default_val, npostsmps, D)
-	# for (j in 1:npostsmps){
-	# 	filenameA = paste(c(dataseed, factorseed, "Ahat", smps[j], ".csv"), collapse="_")
-	# 	Ahat = as.matrix(read.table(paste(c(fitfactordir, filenameA), collapse="/"), 
-	# 		sep=",", header=TRUE))
-	# 	fit4 = glm(simY~A-Ahat+cov, family=family)
-	# 	summary(fit4)
-	# 	freq_beta_fit[j,] = summary(fit4)$coefficients[2:(2+D-1),1]
-	# 	freq_beta_var[j,] = (summary(fit4)$coefficients[2:(2+D-1),2])^2
-	# }
-	# freqAcovctrl_bias2 = sum((apply(freq_beta_fit, 2, mean) - betas)^2)
-	# freqAcovctrl_var = sum(apply(freq_beta_fit, 2, var)) + sum(apply(freq_beta_var, 2, mean))
-	# freqAcovctrl_mse = freqAcovctrl_bias2 + freqAcovctrl_var
-	# freqAcovctrl = c(freqAcovctrl_bias2, freqAcovctrl_var, freqAcovctrl_mse)
-
-	# Acovctrlres = data.frame(rbind(Acovctrl, freqAcovctrl))
-	
 	Acovctrlres = data.frame(rbind(Acovctrl))
 	colnames(Acovctrlres) = c("bias2", "var", "mse", "cov1", "cov2")
 	print(Acovctrlres)
@@ -483,3 +398,4 @@ resfilename = paste(c(estctrl, trial, randseed, dataseed, factorseed, "res.csv")
 write.table(res, paste(c(savedir, resfilename), 
 	collapse="/"), sep = ",", qmethod = "double")
 
+}

@@ -1,6 +1,6 @@
 rm(list = ls())
 
-rawdir = "./smoking_R"
+rawdir = "smoking_R"
 
 setwd(paste(c(rawdir, "src"), collapse="/"))
 
@@ -20,11 +20,11 @@ outcome_model = args[3]
 simset = args[4]
 randseed = as.integer(args[5])
 
-# ntrials = 30
+# ntrials = 100
 # confscale = 1
 # outcome_model = "linear"
 # simset = "indep"
-# randseed = 1587247895
+# randseed = 825172439
 
 
 if(simset=="indep"){
@@ -135,8 +135,7 @@ covariates = cov
 
 for (i in 1:ntrials){
 	simdata = sim_conf_data(A, C, outdir, family, 
-		confscale=confscale, sd=1.0, 
-		seed=randseed) 
+		confscale=confscale, sd=1.0) 
 	intercepts[i,] = simdata$intercept
 	betass[i,] = simdata$betas
 	gammass[i,] = simdata$gammas

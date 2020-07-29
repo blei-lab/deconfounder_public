@@ -56,7 +56,7 @@ stochastic gradient MCMC algorithms with high-order integrators. In
 Advances in Neural Information Processing Systems (pp. 2278-2286).
 
 
-Grimmer, J., Knox, & D., Stewart, B. (2020). Naive regression requires
+Grimmer, J., Knox, D., & Stewart, B. (2020). Naive regression requires
 weaker assumptions than factor models to adjust for multiple cause
 confounding
 [[link](https://www.dropbox.com/s/71m4ncw6s9nkek7/gks.pdf)]

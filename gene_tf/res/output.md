@@ -1,7 +1,7 @@
 
 We summarize `linear_rmse_sing` and `logistic_rmse_sing`, the RMSEs
 from regression against one SNP at a time, for the low SNR setting
-with n=5000 and p=10000. (They are often substantially smaller than
+with n=5000 and p=100000. (They are often substantially smaller than
 `linear_rmse` and `logistic_rmse`, which are the RMSEs from regression
 against all SNPs simultaneously.) `res/*_avg.csv` contains all the raw
 output files for these results.

@@ -6,6 +6,16 @@ with n=5000 and p=100000. (They are often substantially smaller than
 against all SNPs simultaneously.) `res/*_avg.csv` contains all the raw
 output files for these results.
 
+RMSEs in `linear_rmse_sing` calculates the RMSE for each SNP (i.e. the
+absolute error of the coefficient for this SNP) and then average over
+all SNPs, so it calculates $$1/m \sum_{j=1}^m \sqrt{(\beta_j -
+\beta_j_hat)^2} = 1/m \sum_{j=1}^m |\beta_j - \beta_j_hat|$$ , which
+is the mean absolute error (MAE) of the algorithms as we usually call
+it. RMSEs in `linear_rmse` calculates the RMSE for all SNPs jointly
+and do not average over all SNPs, so it calculates $$\sqrt{ 1/m
+\sum_{j=1}^m (\beta_j - \beta_j_hat)^2 }$$, the root mean squared error
+(RMSE) of the algorithms as we usually call it.
+
 ### Balding-Nichols Model
 
 ||Real-valued outcome RMSE\*10^{-2}|Binary-valued outcome RMSE\*10^{-2}|
@@ -130,3 +140,5 @@ output files for these results.
 |LFA|2.41|2.83|
 |GMM|4.49|3.38|
 |DEF|1.27|2.51|
+
+
